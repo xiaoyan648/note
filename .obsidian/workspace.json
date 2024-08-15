@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "0f6771c55178381c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a7c9730fa654693",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c267a548ae2ef25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mysql-锁.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a65567a5e196eefa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c814236f6e5ff7ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94673482b6e42c1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fba8b2032d05712e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b076bddb93376cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d28298963bd73e59",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a8ed7328191f469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0421ca53dbc3c657",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mysql-锁.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f6993b8918410aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Mysql-锁.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae8a40fa129979f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5be5aaa28ca4121f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mysql-锁.md"
+              }
+            }
+          },
+          {
+            "id": "4da76b6c3871199f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5e515ea40c8965a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "7c267a548ae2ef25",
+  "lastOpenFiles": [
+    "Mysql-锁.md",
+    "中间件/mysql/Mysql-锁.md",
+    "中间件/mysql",
+    "中间件",
+    "README.md",
+    "未命名.canvas",
+    "中间件/mysql/mysql-锁.md",
+    "中间件/mysql",
+    "中间件",
+    "Excalidraw/Drawing 2024-08-13 23.36.58.excalidraw.md",
+    "Excalidraw",
+    "test/README.md",
+    "test",
+    "中间件/mysql/未命名.canvas",
+    "2024-08-13.md"
+  ]
+}
