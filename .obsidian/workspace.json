@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "中间件/mysql/Mysql-锁.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -156,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5be5aaa28ca4121f",
+  "active": "7c267a548ae2ef25",
   "lastOpenFiles": [
     "中间件/mysql/Mysql-锁.md",
     "中间件/mysql",
