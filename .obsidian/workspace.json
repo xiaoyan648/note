@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mysql-锁.md",
+                "file": "中间件/mysql/Mysql-锁.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mysql-锁.md",
+                "file": "中间件/mysql/Mysql-锁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mysql-锁.md",
+                "file": "中间件/mysql/Mysql-锁.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mysql-锁.md"
+                "file": "中间件/mysql/Mysql-锁.md"
               }
             }
           },
@@ -136,17 +136,9 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "b5e515ea40c8965a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -159,14 +151,16 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "7c267a548ae2ef25",
+  "active": "5be5aaa28ca4121f",
   "lastOpenFiles": [
-    "Mysql-锁.md",
+    "中间件/mysql/Mysql-锁.md",
+    "中间件/mysql",
+    "中间件",
     "中间件/mysql/Mysql-锁.md",
     "中间件/mysql",
     "中间件",
