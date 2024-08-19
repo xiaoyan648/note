@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日/2024-08-19.md",
+                "file": "DevOps/docker/如何提升构建速度.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日/2024-08-19.md",
+                "file": "DevOps/docker/如何提升构建速度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日/2024-08-19.md",
+                "file": "DevOps/docker/如何提升构建速度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日/2024-08-19.md"
+                "file": "DevOps/docker/如何提升构建速度.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "b72f92343419b21a",
   "lastOpenFiles": [
-    "中间件/mysql/Mysql-锁.md",
     "每日/2024-08-19.md",
+    "DevOps/docker/如何提升构建速度.md",
+    "DevOps/docker",
+    "DevOps/k8s",
+    "中间件/mysql/Mysql-锁.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
     "最佳实践/分布式链路追踪.md",
@@ -172,8 +175,6 @@
     "架构",
     "DevOps",
     "每日",
-    "中间件/mysql",
-    "中间件",
     "中间件/mysql",
     "中间件",
     "未命名.canvas",
