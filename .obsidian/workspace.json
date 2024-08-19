@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中间件/mysql/Mysql-锁.md",
+                "file": "每日/2024-08-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中间件/mysql/Mysql-锁.md",
+                "file": "每日/2024-08-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中间件/mysql/Mysql-锁.md",
+                "file": "每日/2024-08-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中间件/mysql/Mysql-锁.md"
+                "file": "每日/2024-08-19.md"
               }
             }
           },
@@ -158,10 +158,10 @@
   },
   "active": "b72f92343419b21a",
   "lastOpenFiles": [
+    "中间件/mysql/Mysql-锁.md",
     "每日/2024-08-19.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
-    "中间件/mysql/Mysql-锁.md",
     "最佳实践/分布式链路追踪.md",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
