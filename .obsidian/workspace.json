@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日/2024-08-21.md",
+                "file": "DevOps/ci/git action.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日/2024-08-21.md",
+                "file": "DevOps/ci/git action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日/2024-08-21.md",
+                "file": "DevOps/ci/git action.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日/2024-08-21.md"
+                "file": "DevOps/ci/git action.md"
               }
             }
           },
@@ -158,6 +158,9 @@
   },
   "active": "c2998f767bf681db",
   "lastOpenFiles": [
+    "每日/2024-08-21.md",
+    "DevOps/ci/git action.md",
+    "DevOps/ci",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何提升构建速度.md",
     "最佳实践/分布式链路追踪.md",
@@ -165,7 +168,6 @@
     "DevOps/git",
     "Pasted image 20240819133053.png",
     "Pasted image 20240819133036.png",
-    "每日/2024-08-21.md",
     "DevOps/docker",
     "DevOps/k8s",
     "中间件/mysql/Mysql-锁.md",
@@ -180,7 +182,6 @@
     "架构",
     "DevOps",
     "每日",
-    "中间件/mysql",
     "未命名.canvas",
     "中间件/mysql/mysql-锁.md",
     "Excalidraw/Drawing 2024-08-13 23.36.58.excalidraw.md",
