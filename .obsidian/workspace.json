@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/ci/git action.md",
+                "file": "DevOps/ci/tekton.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/ci/git action.md",
+                "file": "DevOps/ci/tekton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/ci/git action.md",
+                "file": "DevOps/ci/tekton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/ci/git action.md"
+                "file": "DevOps/ci/tekton.md"
               }
             }
           },
@@ -158,10 +158,11 @@
   },
   "active": "c2998f767bf681db",
   "lastOpenFiles": [
+    "DevOps/ci/git action.md",
+    "DevOps/ci/tekton.md",
     "Pasted image 20240821195730.png",
     "Pasted image 20240821194730.png",
     "每日/2024-08-21.md",
-    "DevOps/ci/git action.md",
     "DevOps/ci",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何提升构建速度.md",
