@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "中间件/clickhouse/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "中间件/clickhouse/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "中间件/clickhouse/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日/2024-08-25.md"
+                "file": "中间件/clickhouse/未命名.md"
               }
             }
           },
@@ -165,8 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba8b2032d05712e",
+  "active": "d2931ad799f71678",
   "lastOpenFiles": [
+    "每日/2024-08-25.md",
+    "中间件/clickhouse/未命名.md",
+    "中间件/clickhouse",
+    "未命名 1.md",
+    "未命名.md",
+    "DevOps/ci/git action.md",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180652132.png",
     "Pasted image 20240819133053.png",
@@ -174,7 +179,6 @@
     "DevOps/docker/如何选择基础镜像.res",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180625204.png",
     "DevOps/docker/如何提升构建速度.md",
-    "DevOps/ci/git action.md",
     "DevOps/ci/Pasted image 20240821195730.png",
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
     "DevOps/ci/Pasted image 20240821194730.png",
@@ -186,19 +190,16 @@
     "DevOps/ci/git action",
     "README.md",
     "中间件/mysql/Mysql-锁.md",
-    "每日/2024-08-25.md",
     "DevOps/git/Git Clone.md",
     "DevOps/git",
     "DevOps/docker",
     "DevOps/ci",
     "DevOps",
     "每日/2024-08-18.md",
-    "未命名.md",
     "每日/2024-08-16.md",
     "每日",
     "最佳实践/分布式链路追踪.md",
     "最佳实践",
-    "中间件/mysql",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "Mysql-锁.md",
