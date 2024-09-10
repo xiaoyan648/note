@@ -11,8 +11,12 @@
             "id": "c2998f767bf681db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DevOps/k8s/k8s 本地部署.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DevOps/k8s/k8s 本地部署.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DevOps/k8s/k8s 本地部署.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日/2024-08-29.md"
+                "file": "DevOps/k8s/k8s 本地部署.md"
               }
             }
           },
@@ -150,10 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "c2998f767bf681db",
   "lastOpenFiles": [
-    "每日/2024-08-25.md",
+    "DevOps/ci/tekton.md",
+    "DevOps/k8s/k8s 本地部署.md",
+    "DevOps/ci/git action.md",
     "每日/2024-08-29.md",
+    "每日/2024-08-25.md",
     "中间件/clickhouse/ck数据流实时处理.md",
     "中间件/clickhouse",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180652132.png",
@@ -162,8 +171,6 @@
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
     "DevOps/ci/git action.res/IMG-20240825180511306.png",
     "DevOps/ci/git action.res",
-    "DevOps/ci/tekton.md",
-    "DevOps/ci/git action.md",
     "Pasted image 20240821195730.png",
     "Pasted image 20240821194730.png",
     "每日/2024-08-21.md",
