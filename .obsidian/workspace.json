@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/k8s/k8s 本地部署.md",
+                "file": "DevOps/metrics/代码指标收集.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/k8s/k8s 本地部署.md",
+                "file": "DevOps/metrics/代码指标收集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/k8s/k8s 本地部署.md",
+                "file": "DevOps/metrics/代码指标收集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/k8s/k8s 本地部署.md"
+                "file": "DevOps/metrics/代码指标收集.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "c2998f767bf681db",
   "lastOpenFiles": [
-    "DevOps/ci/tekton.md",
     "DevOps/k8s/k8s 本地部署.md",
+    "DevOps/metrics/代码指标收集.md",
+    "DevOps/metrics",
+    "goc",
+    "DevOps/ci/tekton.md",
     "DevOps/ci/git action.md",
     "每日/2024-08-29.md",
     "每日/2024-08-25.md",
@@ -191,8 +194,6 @@
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "Excalidraw",
     "README.md",
-    "最佳实践",
-    "Code",
     "未命名.canvas",
     "中间件/mysql/mysql-锁.md",
     "Excalidraw/Drawing 2024-08-13 23.36.58.excalidraw.md",
