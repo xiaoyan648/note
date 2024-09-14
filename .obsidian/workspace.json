@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础/计算机网络/常见网络名词.md",
+                "file": "DevOps/ci/tekton.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础/计算机网络/常见网络名词.md",
+                "file": "DevOps/ci/tekton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础/计算机网络/常见网络名词.md",
+                "file": "DevOps/ci/tekton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础/计算机网络/常见网络名词.md"
+                "file": "DevOps/ci/tekton.md"
               }
             }
           },
@@ -171,15 +171,21 @@
   },
   "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
+    "DevOps/ci/tekton.res/IMG-20240914175714253.png",
+    "DevOps/ci/tekton.res/IMG-20240914175445117.png",
+    "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
+    "DevOps/ci/tekton.md",
+    "DevOps/ci/tekton.res/IMG-20240914170601470.png",
+    "DevOps/ci/tekton.res",
+    "DevOps/ci/tekton.res/IMG-20240914165750674.png",
+    "基础/计算机网络/常见网络名词.md",
     "DevOps/readme.md",
     "DevOps/metrics/代码指标收集.md",
-    "基础/计算机网络/常见网络名词.md",
     "基础/计算机网络",
     "基础",
     "DevOps/k8s/k8s 本地部署.md",
     "DevOps/metrics",
     "goc",
-    "DevOps/ci/tekton.md",
     "DevOps/ci/git action.md",
     "每日/2024-08-29.md",
     "每日/2024-08-25.md",
@@ -201,8 +207,6 @@
     "DevOps/git/Git Clone.md",
     "DevOps/git",
     "Pasted image 20240819133053.png",
-    "Pasted image 20240819133036.png",
-    "DevOps/docker",
     "中间件/mysql/Mysql-锁.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
