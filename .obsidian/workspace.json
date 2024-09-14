@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53d0d203a0f1ad35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "常见网络名称.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/metrics/代码指标收集.md",
+                "file": "常见网络名称.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/metrics/代码指标收集.md",
+                "file": "常见网络名称.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/metrics/代码指标收集.md"
+                "file": "常见网络名称.md"
               }
             }
           },
@@ -156,10 +169,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c2998f767bf681db",
+  "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
-    "DevOps/k8s/k8s 本地部署.md",
     "DevOps/metrics/代码指标收集.md",
+    "常见网络名称.md",
+    "基础/计算机网络",
+    "基础",
+    "DevOps/k8s/k8s 本地部署.md",
     "DevOps/metrics",
     "goc",
     "DevOps/ci/tekton.md",
@@ -186,13 +202,11 @@
     "Pasted image 20240819133053.png",
     "Pasted image 20240819133036.png",
     "DevOps/docker",
-    "DevOps/k8s",
     "中间件/mysql/Mysql-锁.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
-    "Excalidraw",
     "README.md",
     "未命名.canvas",
     "中间件/mysql/mysql-锁.md",
