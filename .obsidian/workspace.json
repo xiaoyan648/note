@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "常见网络名称.md",
+                "file": "基础/计算机网络/常见网络名词.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "常见网络名称.md",
+                "file": "基础/计算机网络/常见网络名词.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "常见网络名称.md",
+                "file": "基础/计算机网络/常见网络名词.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "常见网络名称.md"
+                "file": "基础/计算机网络/常见网络名词.md"
               }
             }
           },
@@ -171,8 +171,9 @@
   },
   "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
+    "DevOps/readme.md",
     "DevOps/metrics/代码指标收集.md",
-    "常见网络名称.md",
+    "基础/计算机网络/常见网络名词.md",
     "基础/计算机网络",
     "基础",
     "DevOps/k8s/k8s 本地部署.md",
