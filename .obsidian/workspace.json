@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "每日/2024-08-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "每日/2024-08-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "每日/2024-08-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/ci/tekton.md"
+                "file": "每日/2024-08-25.md"
               }
             }
           },
@@ -171,10 +171,10 @@
   },
   "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
+    "DevOps/ci/tekton.md",
     "DevOps/ci/tekton.res/IMG-20240914175714253.png",
     "DevOps/ci/tekton.res/IMG-20240914175445117.png",
     "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
-    "DevOps/ci/tekton.md",
     "DevOps/ci/tekton.res/IMG-20240914170601470.png",
     "DevOps/ci/tekton.res",
     "DevOps/ci/tekton.res/IMG-20240914165750674.png",
@@ -206,7 +206,6 @@
     "最佳实践/分布式链路追踪.md",
     "DevOps/git/Git Clone.md",
     "DevOps/git",
-    "Pasted image 20240819133053.png",
     "中间件/mysql/Mysql-锁.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
