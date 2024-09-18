@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "DevOps/flow/系统设计.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "DevOps/flow/系统设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日/2024-08-25.md",
+                "file": "DevOps/flow/系统设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日/2024-08-25.md"
+                "file": "DevOps/flow/系统设计.md"
               }
             }
           },
@@ -158,13 +158,15 @@
   },
   "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
+    "每日/2024-08-25.md",
+    "DevOps/flow/系统设计.md",
+    "DevOps/flow",
     "DevOps/ci/tekton.md",
     "Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md",
     "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
     "DevOps/metrics/代码指标收集.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
-    "每日/2024-08-25.md",
     "DevOps/ci/tekton.res/IMG-20240914175714253.png",
     "DevOps/ci/tekton.res/IMG-20240914175445117.png",
     "DevOps/ci/tekton.res/IMG-20240914170601470.png",
@@ -195,7 +197,6 @@
     "DevOps/docker/如何提升构建速度.md",
     "最佳实践/分布式链路追踪.md",
     "DevOps/git/Git Clone.md",
-    "DevOps/git",
     "中间件/mysql/Mysql-锁.md",
     "conflict-files-obsidian-git.md",
     "每日/2024-08-16.md",
@@ -204,7 +205,6 @@
     "中间件/mysql/mysql-锁.md",
     "Excalidraw/Drawing 2024-08-13 23.36.58.excalidraw.md",
     "test/README.md",
-    "中间件/mysql/未命名.canvas",
-    "2024-08-13.md"
+    "中间件/mysql/未命名.canvas"
   ]
 }
