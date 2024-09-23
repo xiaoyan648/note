@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/flow/系统设计.md",
+                "file": "DevOps/ci/tekton.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/flow/系统设计.md",
+                "file": "DevOps/ci/tekton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/flow/系统设计.md",
+                "file": "DevOps/ci/tekton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/flow/系统设计.md"
+                "file": "DevOps/ci/tekton.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "53d0d203a0f1ad35",
   "lastOpenFiles": [
-    "DevOps/研发流程/分支模式选择.md",
+    "DevOps/ci/tekton.res/IMG-20240923155227317.png",
     "DevOps/flow/系统设计.md",
+    "DevOps/研发流程/分支模式选择.md",
     "DevOps/研发流程/代码评审.md",
     "DevOps/研发流程",
     "DevOps/readme.md",
@@ -204,7 +205,6 @@
     "每日/2024-08-16.md",
     "README.md",
     "未命名.canvas",
-    "中间件/mysql/mysql-锁.md",
     "中间件/mysql/未命名.canvas"
   ]
 }

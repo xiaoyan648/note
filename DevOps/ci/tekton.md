@@ -58,7 +58,8 @@ spec:
 ## Tekton使用
 一条CI流水线运行的流程如下图：
 ![[Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md]]
-简单来说就是通过 `EventListener` 接入外部事件，然后创建 `PipelineRun` 开始流水线运行，每个流水线可以运行多个 `Task`，每个 `Task` 都是一个单独的 Pod，每一个 `Task` 运行多个阶段，每个阶段运行在独立的容器中。
+简单来说就是通过 `EventListener` 接入外部事件，然后创建 `PipelineRun` 开始流水线运行，每个流水线可以运行多个 `Task`，每个 `Task` 都是一个单独的 Pod，每一个 `Task` 运行多个阶段，每个阶段运行在独立的容器中。下图包含更多技术细节，感兴趣可以看一下：
+![[IMG-20240923155227317.png]]
 
 下面简单的介绍一下图中出现的 `EventListener、TiggerTemplates、PipelineRun、Pipeline、Task、Step` 这些概念
 
