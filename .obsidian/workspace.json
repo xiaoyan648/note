@@ -98,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "最佳实践/常用库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "最佳实践/常用库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "最佳实践/常用库.md"
               }
             }
           },
@@ -167,10 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "最佳实践/常用库.md",
     "conflict-files-obsidian-git.md",
+    "最佳实践/常用库.md",
     "DevOps/ci/tekton.md",
     "DevOps/ci/tekton.res/IMG-20240923155227317.png",
     "DevOps/flow/系统设计.md",
