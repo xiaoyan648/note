@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "k",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "最佳实践/常用库.md",
+                "file": "DevOps/ci/tekton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "最佳实践/常用库.md",
+                "file": "DevOps/ci/tekton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最佳实践/常用库.md"
+                "file": "DevOps/ci/tekton.md"
               }
             }
           },
@@ -169,10 +169,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "608abe688440d6eb",
+  "active": "fba8b2032d05712e",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "最佳实践/常用库.md",
+    "conflict-files-obsidian-git.md",
     "DevOps/ci/tekton.md",
     "DevOps/ci/tekton.res/IMG-20240923155227317.png",
     "DevOps/flow/系统设计.md",
