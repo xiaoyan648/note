@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "理财/资产配比.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a69030d125bd4a86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "理财/资产配比.md",
+                "file": "DevOps/ci/tekton.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "理财/资产配比.md",
+                "file": "DevOps/ci/tekton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "理财/资产配比.md",
+                "file": "DevOps/ci/tekton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "理财/资产配比.md"
+                "file": "DevOps/ci/tekton.md"
               }
             }
           },
@@ -170,9 +158,11 @@
   },
   "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-10-10 09.32.59.excalidraw.md",
     "理财/资产配比.md",
     "DevOps/ci/tekton.md",
+    "Excalidraw/Drawing 2024-10-10 09.32.59.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
     "DevOps/ci/git action.md",
     "DevOps/研发流程/分支模式选择.md",
     "DevOps/研发流程/代码评审.md",
@@ -192,8 +182,6 @@
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
     "每日/2024-08-25.md",
     "DevOps/flow",
-    "Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
     "DevOps/metrics/代码指标收集.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
