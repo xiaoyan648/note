@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最佳实践/分布式调度系统.md",
+                "file": "理财/资产配比.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a69030d125bd4a86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "理财/资产配比.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "理财/资产配比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "理财/资产配比.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "理财/资产配比.md"
               }
             }
           },
@@ -136,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,16 +168,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "最佳实践/分布式调度系统.md",
-    "conflict-files-obsidian-git.md",
-    "最佳实践/常用库.md",
+    "Excalidraw/Drawing 2024-10-10 09.32.59.excalidraw.md",
+    "理财/资产配比.md",
     "DevOps/ci/tekton.md",
-    "DevOps/ci/tekton.res/IMG-20240923155227317.png",
-    "DevOps/flow/系统设计.md",
+    "DevOps/ci/git action.md",
     "DevOps/研发流程/分支模式选择.md",
     "DevOps/研发流程/代码评审.md",
+    "conflict-files-obsidian-git.md",
+    "理财",
+    "最佳实践/分布式调度系统.md",
+    "最佳实践/常用库.md",
+    "DevOps/ci/tekton.res/IMG-20240923155227317.png",
+    "DevOps/flow/系统设计.md",
     "DevOps/研发流程",
     "DevOps/readme.md",
     "DevOps/ci/tekton.res/IMG-20240914175714253.png",
@@ -186,22 +204,18 @@
     "DevOps/k8s/k8s 本地部署.md",
     "DevOps/metrics",
     "goc",
-    "DevOps/ci/git action.md",
     "每日/2024-08-29.md",
     "中间件/clickhouse/ck数据流实时处理.md",
     "中间件/clickhouse",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180652132.png",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180625204.png",
     "DevOps/docker/如何选择基础镜像.res",
-    "DevOps/ci/git action.res",
     "Pasted image 20240821195730.png",
     "每日/2024-08-21.md",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何提升构建速度.md",
     "最佳实践/分布式链路追踪.md",
     "DevOps/git/Git Clone.md",
-    "中间件/mysql/Mysql-锁.md",
-    "每日/2024-08-16.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
