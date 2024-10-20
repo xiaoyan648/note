@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "架构/Pipeline系统/💡想法记录.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "架构/Pipeline系统/💡想法记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DevOps/ci/tekton.md",
+                "file": "架构/Pipeline系统/💡想法记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/ci/tekton.md"
+                "file": "架构/Pipeline系统/💡想法记录.md"
               }
             }
           },
@@ -158,8 +158,11 @@
   },
   "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "理财/资产配比.md",
+    "DevOps/k8s/k8s 本地部署.md",
+    "架构/Pipeline系统/💡想法记录.md",
+    "架构/Pipeline系统",
     "DevOps/ci/tekton.md",
+    "理财/资产配比.md",
     "Excalidraw/Drawing 2024-10-10 09.32.59.excalidraw.md",
     "Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md",
     "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
@@ -189,7 +192,6 @@
     "基础/计算机网络/常见网络名词.md",
     "基础/计算机网络",
     "基础",
-    "DevOps/k8s/k8s 本地部署.md",
     "DevOps/metrics",
     "goc",
     "每日/2024-08-29.md",
@@ -197,13 +199,11 @@
     "中间件/clickhouse",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180652132.png",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180625204.png",
-    "DevOps/docker/如何选择基础镜像.res",
     "Pasted image 20240821195730.png",
     "每日/2024-08-21.md",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何提升构建速度.md",
     "最佳实践/分布式链路追踪.md",
-    "DevOps/git/Git Clone.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
