@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,7 +156,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "608abe688440d6eb",
+  "active": "5be5aaa28ca4121f",
   "lastOpenFiles": [
     "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统/💡想法记录.md",
