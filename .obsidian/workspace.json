@@ -22,15 +22,15 @@
             }
           },
           {
-            "id": "5e4a52fa695c424c",
+            "id": "76f3b625f43a8375",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.4"
+                "currentVersion": "1.7.5"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
@@ -187,7 +187,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5e4a52fa695c424c",
+  "active": "76f3b625f43a8375",
   "lastOpenFiles": [
     "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统/💡想法记录.md",
