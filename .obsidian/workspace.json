@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md",
+                "file": "DevOps/k8s/监控和日志.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💡想法记录"
-            }
-          },
-          {
-            "id": "76f3b625f43a8375",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "监控和日志"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md"
+                "file": "DevOps/k8s/监控和日志.md"
               },
               "icon": "lucide-list",
-              "title": "💡想法记录 的大纲"
+              "title": "监控和日志 的大纲"
             }
           },
           {
@@ -187,10 +174,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "76f3b625f43a8375",
+  "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统/💡想法记录.md",
+    "DevOps/k8s/监控和日志.md",
+    "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统",
     "DevOps/ci/tekton.md",
     "理财/资产配比.md",
@@ -234,7 +222,6 @@
     "每日/2024-08-21.md",
     "DevOps/docker/如何选择基础镜像.md",
     "DevOps/docker/如何提升构建速度.md",
-    "最佳实践/分布式链路追踪.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
