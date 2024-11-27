@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/k8s/监控和日志.md",
+                "file": "Code/go 源码学习.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "监控和日志"
+              "title": "go 源码学习"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DevOps/k8s/监控和日志.md"
+                "file": "Code/go 源码学习.md"
               },
               "icon": "lucide-list",
-              "title": "监控和日志 的大纲"
+              "title": "go 源码学习 的大纲"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "608abe688440d6eb",
   "lastOpenFiles": [
-    "架构/Pipeline系统/💡想法记录.md",
     "DevOps/k8s/监控和日志.md",
+    "Code/go 源码学习.md",
+    "架构/Pipeline系统/💡想法记录.md",
     "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统",
     "DevOps/ci/tekton.md",
@@ -221,7 +222,6 @@
     "Pasted image 20240821195730.png",
     "每日/2024-08-21.md",
     "DevOps/docker/如何选择基础镜像.md",
-    "DevOps/docker/如何提升构建速度.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
