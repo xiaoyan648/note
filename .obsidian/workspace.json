@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "💡想法记录"
             }
+          },
+          {
+            "id": "8425648eecf94952",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +215,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "afe7d0ea8bcaaec3",
+  "active": "8425648eecf94952",
   "lastOpenFiles": [
     "项目/minitaskx/2.设计：任务调度系统.md",
     "项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
