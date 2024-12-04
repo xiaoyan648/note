@@ -41,28 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md",
+                "file": "杂记/20241204-阅读文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "💡想法记录"
-            }
-          },
-          {
-            "id": "8425648eecf94952",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "20241204-阅读文章"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -180,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md"
+                "file": "杂记/20241204-阅读文章.md"
               },
               "icon": "lucide-list",
-              "title": "💡想法记录 的大纲"
+              "title": "20241204-阅读文章 的大纲"
             }
           },
           {
@@ -215,8 +203,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8425648eecf94952",
+  "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
+    "最佳实践/redis常见场景.md",
+    "杂记/20241204-阅读文章.md",
+    "杂记/2024-08-25.md",
+    "杂记/2024-08-16.md",
+    "架构/Pipeline系统/💡想法记录.md",
     "项目/minitaskx/2.设计：任务调度系统.md",
     "项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
     "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
@@ -225,7 +218,6 @@
     "项目",
     "Code/go 源码学习.md",
     "DevOps/k8s/监控和日志.md",
-    "架构/Pipeline系统/💡想法记录.md",
     "DevOps/k8s/k8s 本地部署.md",
     "架构/Pipeline系统",
     "DevOps/ci/tekton.md",
@@ -248,18 +240,14 @@
     "DevOps/ci/tekton.res/IMG-20240914165750674.png",
     "DevOps/ci/git action.res/IMG-20240825180511306.png",
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
-    "每日/2024-08-25.md",
     "项目/flow",
     "DevOps/metrics/代码指标收集.md",
     "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "Excalidraw/Drawing 2024-08-16 13.30.08.excalidraw.md",
     "DevOps/ci/tekton.res",
-    "基础/计算机网络/常见网络名词.md",
     "基础/计算机网络",
     "基础",
     "DevOps/metrics",
-    "每日/2024-08-29.md",
-    "中间件/clickhouse/ck数据流实时处理.md",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180652132.png",
     "DevOps/docker/如何选择基础镜像.res/IMG-20240825180625204.png",
     "Pasted image 20240821195730.png",
