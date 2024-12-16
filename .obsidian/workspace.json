@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "最佳实践/数据压缩.md",
+                "file": "项目/minitaskx/服务发现.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数据压缩"
+              "title": "服务发现"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "最佳实践/数据压缩.md"
+                "file": "项目/minitaskx/服务发现.md"
               },
               "icon": "lucide-list",
-              "title": "数据压缩 的大纲"
+              "title": "服务发现 的大纲"
             }
           },
           {
@@ -206,6 +206,7 @@
   "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
     "项目/minitaskx/2.设计：任务调度系统.md",
+    "项目/minitaskx/服务发现.md",
     "最佳实践/数据压缩.md",
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204182114285.png",
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204182033497.png",
@@ -247,7 +248,6 @@
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
     "项目/flow",
     "DevOps/metrics/代码指标收集.md",
-    "Excalidraw/Drawing 2024-08-16 10.18.28.excalidraw.md",
     "DevOps/ci/tekton.res",
     "基础/计算机网络",
     "基础",
