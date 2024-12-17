@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/minitaskx/服务发现.md",
+                "file": "Home Assistant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "服务发现"
+              "title": "Home Assistant"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/minitaskx/服务发现.md"
+                "file": "Home Assistant.md"
               },
               "icon": "lucide-list",
-              "title": "服务发现 的大纲"
+              "title": "Home Assistant 的大纲"
             }
           },
           {
@@ -205,8 +205,11 @@
   },
   "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
-    "项目/minitaskx/2.设计：任务调度系统.md",
     "项目/minitaskx/服务发现.md",
+    "Home Assistant.md",
+    "生活/智能家居",
+    "生活",
+    "项目/minitaskx/2.设计：任务调度系统.md",
     "最佳实践/数据压缩.md",
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204182114285.png",
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204182033497.png",
@@ -247,10 +250,7 @@
     "DevOps/ci/git action.res/IMG-20240825180511306.png",
     "DevOps/ci/git action.res/IMG-20240825180550210.png",
     "项目/flow",
-    "DevOps/metrics/代码指标收集.md",
     "DevOps/ci/tekton.res",
-    "基础/计算机网络",
-    "基础",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
