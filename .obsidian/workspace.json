@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home Assistant.md",
+                "file": "杂记/20241204-阅读文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home Assistant"
+              "title": "20241204-阅读文章"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home Assistant.md"
+                "file": "杂记/20241204-阅读文章.md"
               },
               "icon": "lucide-list",
-              "title": "Home Assistant 的大纲"
+              "title": "20241204-阅读文章 的大纲"
             }
           },
           {
@@ -205,7 +205,9 @@
   },
   "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
+    "项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
     "项目/minitaskx/服务发现.md",
+    "杂记/20241204-阅读文章.md",
     "Home Assistant.md",
     "生活/智能家居",
     "生活",
@@ -215,12 +217,10 @@
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204182033497.png",
     "项目/minitaskx/2.设计：任务调度系统.res",
     "项目/minitaskx/2.设计：任务调度系统.res/IMG-20241204181955665.png",
-    "杂记/20241204-阅读文章.md",
     "最佳实践/redis常见场景.md",
     "杂记/2024-08-25.md",
     "杂记/2024-08-16.md",
     "架构/Pipeline系统/💡想法记录.md",
-    "项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
     "Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
     "项目/flow/系统设计.md",
     "项目/minitaskx",
