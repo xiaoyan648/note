@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "杂记/20241204-阅读文章.md",
+                "file": "DevOps/部署管理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20241204-阅读文章"
+              "title": "部署管理"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "杂记/20241204-阅读文章.md"
+                "file": "DevOps/部署管理.md"
               },
               "icon": "lucide-list",
-              "title": "20241204-阅读文章 的大纲"
+              "title": "部署管理 的大纲"
             }
           },
           {
@@ -205,9 +205,10 @@
   },
   "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
+    "杂记/20241204-阅读文章.md",
+    "DevOps/部署管理.md",
     "项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
     "项目/minitaskx/服务发现.md",
-    "杂记/20241204-阅读文章.md",
     "Home Assistant.md",
     "生活/智能家居",
     "生活",
@@ -242,7 +243,6 @@
     "最佳实践/常用库.md",
     "DevOps/ci/tekton.res/IMG-20240923155227317.png",
     "DevOps/研发流程",
-    "DevOps/readme.md",
     "DevOps/ci/tekton.res/IMG-20240914175714253.png",
     "DevOps/ci/tekton.res/IMG-20240914175445117.png",
     "DevOps/ci/tekton.res/IMG-20240914170601470.png",
