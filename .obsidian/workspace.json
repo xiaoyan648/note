@@ -39,10 +39,14 @@
             "id": "afe7d0ea8bcaaec3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "-  技术/计算机基础/DAG - 如何编排任务以达到最大并发度？.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DAG - 如何编排任务以达到最大并发度？"
             }
           }
         ],
@@ -102,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "d28298963bd73e59",
@@ -163,9 +167,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "-  技术/计算机基础/DAG - 如何编排任务以达到最大并发度？.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "DAG - 如何编排任务以达到最大并发度？ 的大纲"
             }
           },
           {
@@ -199,6 +205,10 @@
   },
   "active": "afe7d0ea8bcaaec3",
   "lastOpenFiles": [
+    "-  技术/计算机基础/算法",
+    "-  技术/计算机基础/计算机网络/常见网络名词.md",
+    "-  技术/计算机基础/DAG - 如何编排任务以达到最大并发度？.md",
+    "-  技术/DevOps/k8s/k8s 本地部署.md",
     "README.md",
     "-  生活/智能家居/Home Assistant.md",
     "-  技术/编程语言/go 源码学习.md",
@@ -228,16 +238,12 @@
     "-  技术/项目/minitaskx",
     "-  技术/项目",
     "-  技术/DevOps/k8s/监控和日志.md",
-    "-  技术/DevOps/k8s/k8s 本地部署.md",
     "-  技术/架构/Pipeline系统",
     "-  技术/DevOps/ci/tekton.md",
     "-  理财/资产配比.md",
     "-  Excalidraw/Drawing 2024-10-10 09.32.59.excalidraw.md",
     "-  Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md",
     "-  技术/DevOps/ci/git action.md",
-    "-  技术/DevOps/研发流程/分支模式选择.md",
-    "-  技术/DevOps/研发流程/代码评审.md",
-    "conflict-files-obsidian-git.md",
     "-  理财",
     "-  技术/DevOps/ci/tekton.res/IMG-20250102133156755.png",
     "-  技术/DevOps/研发流程",
