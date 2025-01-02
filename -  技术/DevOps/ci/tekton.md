@@ -47,19 +47,19 @@ spec:
 
 接下来可以跟进 ingress 的配置访问 比如： http://tekton.k8s.local 
 
-![[IMG-20240914170601470.png]]
+![[IMG-20250102133156649.png]]
 点击 PipelineRuns 可以查看流水线运行的情况
-![[IMG-20240914175445117.png]]
+![[IMG-20250102133156663.png]]
 点击Task可以看到 有入参、出参记录，状态记录了此刻的 Yaml 资源，可以保存一些中间结果
 
-![[IMG-20240914175714253.png]]
+![[IMG-20250102133156730.png]]
 点击下方的 Step 可以看到每一个阶段运行的日志和Yaml资源
 
 ## Tekton使用
 一条CI流水线运行的流程如下图：
-![[Excalidraw/Drawing 2024-09-16 21.00.02.excalidraw.md]]
+![[Drawing 2024-09-16 21.00.02.excalidraw]]
 简单来说就是通过 `EventListener` 接入外部事件，然后创建 `PipelineRun` 开始流水线运行，每个流水线可以运行多个 `Task`，每个 `Task` 都是一个单独的 Pod，每一个 `Task` 运行多个阶段，每个阶段运行在独立的容器中。下图包含更多技术细节，感兴趣可以看一下：
-![[IMG-20240923155227317.png]]
+![[IMG-20250102133156755.png]]
 
 下面简单的介绍一下图中出现的 `EventListener、TiggerTemplates、PipelineRun、Pipeline、Task、Step` 这些概念
 
@@ -82,7 +82,7 @@ EventListener 接受到事件后会通过 TiggerTemplates 触发资源的创建�
 可以把Pipeline看作一个模版，PipelineRun是运行实例，即每次触发运行都是不同的PipelineRun
 
 其中我们进行如下资源的Yaml配置编写：
-![[Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md]]
+![[Drawing 2024-09-14 17.16.04.excalidraw]]
 
 
 ## Reference
