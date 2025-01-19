@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/中间件/PolarDB/简介.md",
+                "file": "-  技术/中间件/PolarDB/PolarDB-简介.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "简介"
+              "title": "PolarDB-简介"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/最佳实践/支付/支付配置.md",
+                "file": "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "支付配置"
+              "title": "PolarDB-最佳实践"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "-  技术/中间件/PolarDB/PolarDB-最佳实践.md"
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 的大纲"
+              "title": "PolarDB-最佳实践 的大纲"
             }
           },
           {
@@ -189,19 +189,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "d98ba4c5bfb93a6c",
   "lastOpenFiles": [
-    "-  技术/最佳实践/支付/支付配置.md",
+    "-  技术/中间件/PolarDB/PolarDB-简介.md",
+    "-  技术/中间件/PolarDB/PolarDB-简介.res",
+    "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
     "conflict-files-obsidian-git.md",
+    "-  技术/最佳实践/支付/支付配置.md",
     "-  技术/最佳实践/支付/支付配置.res/IMG-20250119141815482.png",
     "-  技术/最佳实践/支付/支付配置.res/IMG-20250119141806794.png",
     "-  技术/最佳实践/支付/支付配置.res/IMG-20250119141758228.png",
     "-  技术/最佳实践/支付/支付配置.res/IMG-20250119141749741.png",
     "-  技术/最佳实践/支付/支付配置.res",
     "-  技术/最佳实践/支付/支付配置.res/IMG-20250119141740861.png",
-    "-  技术/中间件/PolarDB/简介.md",
     "-  技术/中间件/PolarDB/简介.res",
-    "-  技术/中间件/PolarDB/简介.res/IMG-20250117211931749.png",
+    "-  技术/中间件/PolarDB/PolarDB-简介.res/IMG-20250119145958711.png",
     "-  技术/最佳实践/如何进行性能优化？.md",
     "-  技术/中间件/PolarDB",
     "-  技术/最佳实践/性能优化/如何快速有效的性能优化.md",
@@ -221,7 +223,6 @@
     "-  技术/最佳实践/业务场景/hotkey.md",
     "-  技术/系统设计/编排引擎/流程引擎简介.md",
     "-  技术/最佳实践/业务场景/hotkey.res",
-    "-  技术/最佳实践/业务场景",
     "-  技术/计算机基础/算法/DAG - 如何编排任务以达到最大并发度？.md",
     "-  技术/计算机基础/计算机网络/常见网络名词.md",
     "-  技术/DevOps/k8s/k8s 本地部署.md",
@@ -233,7 +234,6 @@
     "-  技术/DevOps/部署管理.md",
     "-  杂记/20241204-阅读文章.md",
     "-  技术/系统设计/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
-    "-  技术/系统设计/minitaskx/服务发现.md",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res/IMG-20250106104111087.png",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res/IMG-20250106104110998.png",
     "未命名.canvas",
