@@ -7,7 +7,68 @@
 | 高性能高吞吐的业务应用        | - 需要线性扩展。<br>    <br>- 高性能。                                                         | - 业务并发量大（几万或几十万QPS），并要求线性扩展。<br>    <br>- 业务对性能敏感，SQL查询要求快且稳定。                                         | 手动分区                                                                                                                                                                                                             | - 所有表均按业务场景，手动选择最合理的分区方案。<br>    <br>- 业务查询SQL能改造，满足线性扩展性。                                                                     |
 ## 单表打散
 单表打散是将多个表分散在不同的DN来提升系统性能，比如 在此模式下 table1、table2 会被自动分布到 DN1、DN2 不同的数据节点；
-建
+#### 使用方式
+创建数据库并标记 DEFAULT_SINGLE='on'
 ```sql
 CREATE DATABASE autodb1 MODE='auto' DEFAULT_SINGLE='on';
+```
+创建表
+```sql
+CREATE TABLE sin_t1(
+ id bigint not null auto_increment, 
+ bid int, 
+ name varchar(30),
+ birthday datetime,
+ primary key(id)
+);
+
+CREATE TABLE sin_t2(
+ id bigint not null auto_increment, 
+ bid int, 
+ name varchar(30),
+ birthday datetime,
+ primary key(id)
+);
+
+CREATE TABLE sin_t3(
+ id bigint not null auto_increment, 
+ bid int, 
+ name varchar(30),
+ birthday datetime,
+ primary key(id)
+);
+
+CREATE TABLE sin_t4(
+ id bigint not null auto_increment, 
+ bid int, 
+ name varchar(30),
+ birthday datetime,
+ primary key(id)
+);
+```
+查看表分布情况
+```sql
+SHOW TOPOLOGY FROM sin_t2
+```
+```sql
+              ID: 0
+       GROUP_NAME: AUTODB1_P00001_GROUP
+       TABLE_NAME: sin_t2_IT7l
+   PARTITION_NAME: p1
+SUBPARTITION_NAME: 
+      PHY_DB_NAME: autodb1_p00001
+            DN_ID: polardbx-storage-1-master
+STORAGE_POOL_NAME: _default
+```
+可以看到表被分布到了不同的 DN_ID
+#### 局限
+- Join性能变化：单表打散后，部分表的JOIN执行性能可能会出现变化，这是因为原本同一个DN的多个单表的`JOIN`由于落到不同的DN，导致`JOIN`算子无法继续下推至DN执行。
+- 分布不均匀：若逻辑表没显式指定MySQL的分区定义，作为单表被随机分配到PolarDB-X的不同DN节点时，由于每张表的数据量不同，会导致不同节点空间大小不一样。
+
+## 自动分区
+![[IMG-20250119161816176.png]]
+AUTO库默认是手动分区，需手动设置以下开关才能使用自动分区：
+
+```sql
+SET GLOBAL AUTO_PARTITION=true;
 ```

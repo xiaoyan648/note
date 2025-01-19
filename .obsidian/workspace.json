@@ -191,6 +191,8 @@
   },
   "active": "d98ba4c5bfb93a6c",
   "lastOpenFiles": [
+    "-  技术/中间件/PolarDB/PolarDB-最佳实践.res",
+    "-  技术/中间件/PolarDB/PolarDB-最佳实践.res/IMG-20250119161816176.png",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
     "-  技术/中间件/PolarDB/PolarDB-简介.res",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
@@ -235,7 +237,6 @@
     "-  杂记/20241204-阅读文章.md",
     "-  技术/系统设计/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res/IMG-20250106104111087.png",
-    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res/IMG-20250106104110998.png",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
