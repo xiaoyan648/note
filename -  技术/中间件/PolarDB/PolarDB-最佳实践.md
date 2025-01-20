@@ -7,6 +7,7 @@
 | 高性能高吞吐的业务应用        | - 需要线性扩展。<br>    <br>- 高性能。                                                         | - 业务并发量大（几万或几十万QPS），并要求线性扩展。<br>    <br>- 业务对性能敏感，SQL查询要求快且稳定。                                         | 手动分区                                                                                                                                                                                                             | - 所有表均按业务场景，手动选择最合理的分区方案。<br>    <br>- 业务查询SQL能改造，满足线性扩展性。                                                                     |
 ## 单表打散
 单表打散是将多个表分散在不同的DN来提升系统性能，比如 在此模式下 table1、table2 会被自动分布到 DN1、DN2 不同的数据节点；
+![[IMG-20250120161518180.png]]
 #### 使用方式
 创建数据库并标记 DEFAULT_SINGLE='on'
 ```sql
@@ -71,4 +72,46 @@ AUTO库默认是手动分区，需手动设置以下开关才能使用自动分�
 
 ```sql
 SET GLOBAL AUTO_PARTITION=true;
+```
+
+创建表后，会自动加上分区语句
+```sql
+mysql> CREATE TABLE auto_t1(
+    ->  id bigint not null auto_increment, 
+    ->  bid int, 
+    ->  name varchar(30),
+    ->  birthday datetime,
+    ->  primary key(id),
+    ->  index idx_name(name)
+    -> );
+
+Query OK, 0 rows affected (2.44 sec)
+
+mysql> 
+mysql> show full create table auto_t1\G
+*************************** 1. row ***************************
+       Table: auto_t1
+Create Table: CREATE PARTITION TABLE `auto_t1` (
+	`id` bigint(20) NOT NULL AUTO_INCREMENT,
+	`bid` int(11) DEFAULT NULL,
+	`name` varchar(30) DEFAULT NULL,
+	`birthday` datetime DEFAULT NULL,
+	PRIMARY KEY (`id`),
+	GLOBAL INDEX /* idx_name_$6425 */ `idx_name` (`name`) 
+		PARTITION BY KEY(`name`,`id`)
+		PARTITIONS 3,
+	LOCAL KEY `_local_idx_name` (`name`)
+) ENGINE = InnoDB DEFAULT CHARSET = utf8mb4
+PARTITION BY KEY(`id`)
+PARTITIONS 3
+/* tablegroup = `tg3741` */
+1 row in set (0.03 sec)
+```
+
+## 手动分区
+PolarDB-X手动分区适合对业务性能有要求的应用，尤其是高并发高吞吐的核心应用。 因此，手动分区要求使用者需要对分布式数据库原理有所了解。但是，手动分区可以让用户选择最适合应用场景的维度进行水平切分，因此，手动分区最能发挥出分布式数据库的扩展性与高性能。
+
+同样需要 Auto mode
+```sql
+CREATE DATABASE autodb1 MODE='auto'
 ```
