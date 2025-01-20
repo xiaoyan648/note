@@ -243,7 +243,12 @@ CREATE TABLE order_tbl(
 ## 列索引 CCI
 
 ## 表组
+在PolarDB-X中，为加速SQL的执行效率，当分区表间通过各自的分区键进行等值关联的JOIN操作时，优化器会倾向于将这些操作转化为Partition-Wise Join来实现计算下推。这种方法可以显著提升查询的执行效率。然而，在表A发生诸如分区分裂、迁移等变更后，其分区规则与表B不再对齐，原本A表和B表支持下推的JOIN查询条件将会不复存在，由此导致计算下推变得无效，并对业务的执行效率造成不利影响。
+为了保障表之间的JOIN操作能够稳定地实现计算下推，在PolarDB-X中引入了表组的概念。
+同一个表组的表分区策略必须一致，相同的分片就会落在同一个DN：
+![[Pasted image 20250120191652.png]]
 
+[操作文档](https://help.aliyun.com/zh/polardb/polardb-for-xscale/table-group/?spm=a2c4g.11186623.help-menu-2249963.d_5_1_8.47615587FNw6Qs)
 
 ## 性能分析
 ### 分区情况
