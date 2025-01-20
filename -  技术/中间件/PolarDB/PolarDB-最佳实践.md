@@ -250,9 +250,54 @@ CREATE TABLE order_tbl(
 
 [操作文档](https://help.aliyun.com/zh/polardb/polardb-for-xscale/table-group/?spm=a2c4g.11186623.help-menu-2249963.d_5_1_8.47615587FNw6Qs)
 
-## 性能分析
-### 分区情况
-查看分区、制定分区
-### sql语句分析
-sql诊断
+## 分区情况
+### 分区情况查询
+若需要简单查询分区表的整体拓扑以及各个分区的物理位置（物理库表所在的DN），也可以采用`SHOW TOPOLOGY FROM #table_name`命令快速查看（如下所示）：
 
+### 分区详细情况查询
+PolarDB-X兼容MySQL的INFORMATION_SCHEMA.PARTITIONS的视图查询，支持通过PARTITIONS视图查询各个一级分区及其二级分区的相关元信息，例如：
+```sql
+select * from information_schema.partitions where table_schema='autodb2' and table_name='test_tbl_part_name2' order by partition_name, subpartition_name;
+```
+
+### 查看数据分布
+查看不同分区的插入、查询情况
+```sql
+select table_name, partition_name, subpartition_name, percent, 
+     rows_read, rows_inserted, rows_updated, rows_deleted from information_schema.table_detail  
+     where table_schema='autodb2' and table_name='test_tbl_part_name2' 
+     order by partition_name, subpartition_name;
+```
+![[Pasted image 20250120200158.png]]
+
+## 性能优化
+### 索引优化
+**强制指定分区**，规则如下：
+```sql
+SELECT/UPDATE/DELETE ...  tbl_name [PARTITION ( part_name[, part_name, ...] )]
+```
+案例如下：
+```sql
+SELECT * FROM tb_k PARTITION( p1,p2 );
+```
+
+
+**索引分析**
+
+
+### 如何解决数据热点
+以订单表举例，当我们按照 卖家id 分区，如果出现大卖家就会出现数据倾斜的情况，如下：
+![[Pasted image 20250120202150.png]]
+在 PolarDB 中如何解决呢？
+我们可以通过如下两步将热点数据打散
+1. 首先将 `partition by key(seller_id) ` 改为 `partition by key(seller_id，id) ` ，此时 `id` 列实际上并没有参与具体的路由计算，仅仅是一个分区键的"占位符"
+```sql
+alter table orders partition by key(seller_id,id) partitions 5
+```
+2. 通过如下 split 将热点数据打散，下面语句的含义是将 `seller_id = 88` 的记录通过第二个分区键 `id` 进行再次分区，分区数为 2
+```sql
+alter table orders split into H88_ partitions 2 by hot value(88)
+```
+打散后的效果如下：
+分裂前后非热点数据（seller_id不等于88）并没有发生变化，原来在P1的还在P1，在P2的还在P2，仅仅是影响到了热点数据的，分裂前seller_id=88会自动路由到P5分区，分裂后路由到H88_1和H88_2。
+![[Pasted image 20250120203438.png]]
