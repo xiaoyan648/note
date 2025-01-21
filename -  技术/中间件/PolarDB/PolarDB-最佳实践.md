@@ -283,6 +283,37 @@ SELECT * FROM tb_k PARTITION( p1,p2 );
 
 
 **索引分析**
+和常规的sql分析一样，我们可以通过 `explain` 关键字分析 sql 语句执行情况
+比如一个二级索引的请求流程如下：
+![[Pasted image 20250121102027.png]]
+
+  可以看出先通过 `g_i_uid`索引筛选后，最终是回主表获取信息，可以考虑在 `g_i_uid` 中覆盖更堵字段减少回主表次数。
+
+**索引诊断**
+通过如下语句可以查询索引存在的问题和优化建议，
+```sql
+-- 索引静态诊断
+INSPECT FULL INDEX FROM pay_order
+
+-- 索引动态诊断
+-- DYNAMIC模式的诊断需要依据索引的使用数据，建议收集一个完整的业务流量周期的数据（如1天、1周，这取决于您的业务特点）后再进行诊断。
+set global GSI_STATISTICS_COLLECTION=true
+INSPECT FULL INDEX FROM pay_order mode=dynamic
+```
+
+**索引使用情况**
+```sql
+select * from information_schema.global_indexes
+select * from information_schema.global_indexes where `table` = 'pay_order'
+```
+
+返回信息说明：
+- SIZE_IN_MB：索引占用的空间。
+- USE_COUNT：自您开启GSI_STATISTICS_COLLECTION后，索引被使用的次数。
+- LAST_ACCESS_TIME：自您开启GSI_STATISTICS_COLLECTION后，索引最后一次被使用的时间。
+- CARDINALITY：索引的基数。
+- ROW_COUNT：索引的行数。
+
 
 
 ### 如何解决数据热点
@@ -301,3 +332,11 @@ alter table orders split into H88_ partitions 2 by hot value(88)
 打散后的效果如下：
 分裂前后非热点数据（seller_id不等于88）并没有发生变化，原来在P1的还在P1，在P2的还在P2，仅仅是影响到了热点数据的，分裂前seller_id=88会自动路由到P5分区，分裂后路由到H88_1和H88_2。
 ![[Pasted image 20250120203438.png]]
+## 读写分离
+在Mysql中，读写分离代理会伪造成Mysql和应用程序建立好链接，解析发送进来的每一条sql,如果是
+update、delete、insert、create等写操作则直接发往主库，如果是select则发送到备库。
+![[Pasted image 20250121103825.png]]
+带来的问题：延迟导致的查询不一致，使用mysqlE时不可避免地会遇到备库select查询数据不一致的现象（因为主备有延迟)。负载低的时候延迟可以控制在秒级别，但当负载很高时，尤其是对大表做DDL
+
+在 POLARDB 的链路中间层做读写分离的同时，中间层会 track 各个节点已经 apply 了的 redolog 位点即 LSN,同时每次更新时会记录此次更新的位点为 Session LSN,当有新请求到来时我们会比较 Session LSN 和当前各个节点的 LSN ,仅将请求发往 LSN>=Session LSN 的节点，从而保证了会话一致性；表面上看该方案可能导致主库压力大，但是因为 POLARDB 是物理复制，速度极快，在上述场景中，当更新完成后，返回客户端结果时复制就同步在进行，而当下一个读请求到来时主从极有可能已经完成，然后大多数应用场景都是读多写少，所以经验证在该机制下即保证了会话一致性，也保证了读写分离负载均衡的效果
+![[Pasted image 20250121104042.png]]
