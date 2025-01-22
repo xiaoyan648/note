@@ -185,10 +185,11 @@ PARTITIONS 256
 ### 核心建表语句
 PolarDB 分区表建表语句和普通建表语句的差异主要在两个部分
 #### [分区函数](https://help.aliyun.com/zh/polardb/polardb-for-xscale/partition-table-type-and-usage-description/?spm=a2c4g.11186623.help-menu-2249963.d_4_10_1.27d67188TRnZtS&scm=20140722.H_2773431._.OR_help-T_cn~zh-V_1)
-	可以通过 HASH、KEY、RANGE、LIST、CO_HASH 等多种分区策略将数据打散到不同数据节点.
+可以通过 HASH、KEY、RANGE、LIST、CO_HASH 等多种分区策略将数据打散到不同数据节点.
 #### [GSI 全局二级索引](https://help.aliyun.com/zh/polardb/polardb-for-xscale/global-secondary-index-gsi?spm=a2c4g.11186623.help-menu-2249963.d_4_10_4.326f8c5eF1itLN)
-	通过全局二级索引，用户能够按需增加分区维度、提供全局唯一约束等
-	![[Pasted image 20250120171451.png]]
+通过全局二级索引，用户能够按需增加分区维度、提供全局唯一约束等
+![[Pasted image 20250122211446.png]]
+
 
 ##### 全局二级索引（Global Secondary Index 简称GSI）
 
