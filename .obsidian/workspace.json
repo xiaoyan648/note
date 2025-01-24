@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
+                "file": "-  技术/工具/常用包.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PolarDB-最佳实践"
+              "title": "常用包"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-  技术/中间件/PolarDB/PolarDB-最佳实践.md"
+                "file": "-  技术/工具/常用包.md"
               },
               "icon": "lucide-list",
-              "title": "PolarDB-最佳实践 的大纲"
+              "title": "常用包 的大纲"
             }
           },
           {
@@ -191,6 +191,9 @@
   },
   "active": "d98ba4c5bfb93a6c",
   "lastOpenFiles": [
+    "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
+    "-  技术/工具/常用包.md",
+    "-  技术/工具",
     "Pasted image 20250122211446.png",
     "Pasted image 20250121104042.png",
     "Pasted image 20250121103825.png",
@@ -200,10 +203,8 @@
     "Pasted image 20250120200158.png",
     "Pasted image 20250120191652.png",
     "-  技术/中间件/PolarDB/PolarDB-高可用.md",
-    "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
     "Pasted image 20250120171451.png",
     "Pasted image 20250120170029.png",
-    "-  技术/中间件/PolarDB/PolarDB-最佳实践.res/IMG-20250120161518180.png",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.res",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
     "-  技术/中间件/PolarDB/PolarDB-简介.res",
@@ -225,7 +226,6 @@
     "-  技术/系统设计/订单系统",
     "> 基础/计算机网络/常见网络名词.md",
     "> 基础/计算机网络",
-    "> 基础",
     "-  技术/编程语言/go 常用库.md",
     "-  技术/最佳实践/业务场景/hotkey.md",
     "-  技术/系统设计/编排引擎/流程引擎简介.md",
