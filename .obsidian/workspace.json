@@ -189,8 +189,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "d98ba4c5bfb93a6c",
   "lastOpenFiles": [
+    "-  技术/AI/未命名.res/IMG-20250205170124244.png",
+    "-  技术/AI/未命名.res",
+    "-  技术/AI/未命名.res/IMG-20250205170050262.png",
     "-  技术/未命名/未命名 1.md",
     "-  技术/AI/未命名.md",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
@@ -208,7 +211,6 @@
     "Pasted image 20250122211446.png",
     "Pasted image 20250121104042.png",
     "Pasted image 20250121103825.png",
-    "Pasted image 20250121102027.png",
     "-  技术/中间件/PolarDB/PolarDB-高可用.md",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.res",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
@@ -225,7 +227,6 @@
     "-  技术/最佳实践/数据平滑迁移.md",
     "-  技术/最佳实践/支付",
     "-  技术/架构/订单系统/订单系统设计.md",
-    "-  技术/架构/订单系统",
     "-  技术/系统设计/订单系统/虚拟商品订单系统.md",
     "-  技术/系统设计/订单系统/电商订单系统.md",
     "> 基础/计算机网络/常见网络名词.md",
@@ -236,7 +237,6 @@
     "-  技术/计算机基础/计算机网络/常见网络名词.md",
     "-  技术/DevOps/k8s/k8s 本地部署.md",
     "README.md",
-    "-  生活/智能家居/Home Assistant.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
