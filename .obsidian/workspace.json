@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/AI/提示词工程.md",
+                "file": "-  技术/AI/资源.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "提示词工程"
+              "title": "资源"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "-  技术/AI/提示词工程.md"
+                "file": "-  技术/AI/资源.md"
               },
               "icon": "lucide-list",
-              "title": "提示词工程 的大纲"
+              "title": "资源 的大纲"
             }
           },
           {
@@ -191,8 +191,11 @@
   },
   "active": "d98ba4c5bfb93a6c",
   "lastOpenFiles": [
-    "-  技术/AI/教育案例.md",
+    "-  技术/AI/资源.res",
+    "-  技术/AI/资源.res/IMG-20250207115616196.png",
     "-  技术/AI/提示词工程.md",
+    "-  技术/AI/资源.md",
+    "-  技术/AI/教育案例.md",
     "-  技术/AI/序言.md",
     "-  技术/AI/教育案例.res/IMG-20250205170124244.png",
     "-  技术/AI/序言.res",
@@ -212,7 +215,6 @@
     "Pasted image 20250120170029.png",
     "-  技术/工具/常用包.md",
     "-  技术/工具",
-    "Pasted image 20250122211446.png",
     "-  技术/中间件/PolarDB/PolarDB-高可用.md",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.res",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
@@ -235,8 +237,6 @@
     "-  技术/最佳实践/业务场景/hotkey.md",
     "-  技术/系统设计/编排引擎/流程引擎简介.md",
     "-  技术/计算机基础/算法/DAG - 如何编排任务以达到最大并发度？.md",
-    "-  技术/计算机基础/计算机网络/常见网络名词.md",
-    "-  技术/DevOps/k8s/k8s 本地部署.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
