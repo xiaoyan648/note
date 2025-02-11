@@ -25,12 +25,14 @@
             "id": "693404e455e79080",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "-  面试/2025/plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "plan"
             }
           },
           {
@@ -217,9 +219,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "693404e455e79080",
   "lastOpenFiles": [
-    "未命名",
+    "-  面试/2025",
+    "-  面试/2025/plan.md",
+    "-  面试",
     "-  技术/最佳实践/数据平滑迁移.md",
     "-  技术/架构/订单系统/订单系统设计.md",
     "-  技术/最佳实践/表容量预估.md",
@@ -248,7 +252,6 @@
     "-  生活/智能家居",
     "-  生活",
     "-  理财/资产配比.md",
-    "-  理财",
     "-  杂记/20241204-阅读文章.md",
     "-  杂记/2024-08-25.md",
     "-  杂记/2024-08-16.md",
@@ -264,7 +267,6 @@
     "-  技术/项目/minitaskx/服务发现.md",
     "-  技术/项目/minitaskx/2.设计：任务调度系统.md",
     "-  技术/项目/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
-    "-  技术/项目/flow/系统设计.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
