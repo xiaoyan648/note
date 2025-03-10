@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/云原生/云原生.md",
+                "file": "-  技术/云原生/istio 快速入门.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "云原生"
+              "title": "istio 快速入门"
+            }
+          },
+          {
+            "id": "463efeb7cef0345a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           },
           {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,25 +231,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "693404e455e79080",
+  "active": "463efeb7cef0345a",
   "lastOpenFiles": [
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-097Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-095Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-092Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-088Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-466Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-465Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-464Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-461Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-22-132Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-22-128Z.png",
+    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-22-126Z.png",
+    "Downloads/mcp-screenshots",
+    "Downloads",
+    "-  技术/云原生/云原生.md",
     "-  技术/云原生/istio 快速入门.md",
     "-  技术/云原生/istio 快速入门.res",
     "-  技术/云原生/istio 如何完成服务发现？.md",
-    "-  技术/云原生/云原生.md",
     "conflict-files-obsidian-git.md",
-    "-  技术/云原生/istio 快速入门.res/IMG-20250216123750992.png",
     "-  面试/2025/plan.md",
     "-  技术/云原生",
-    "Pasted image 20250122211446.png",
-    "Pasted image 20250121104042.png",
-    "Pasted image 20250121103825.png",
-    "Pasted image 20250121102027.png",
-    "Pasted image 20250120203438.png",
-    "Pasted image 20250120202150.png",
-    "Pasted image 20250120200158.png",
-    "Pasted image 20250120191652.png",
-    "Pasted image 20250120171451.png",
     "-  技术/系统设计/订单系统/虚拟商品订单系统.md",
     "-  技术/系统设计/订单系统/电商订单系统.md",
     "-  技术/系统设计/编排引擎/流程引擎简介.md",
@@ -251,9 +266,7 @@
     "-  技术/系统设计",
     "-  技术/最佳实践/支付/支付配置.res",
     "-  技术/最佳实践/支付/支付配置.md",
-    "-  技术/最佳实践/支付",
     "-  技术/工具/常用包.md",
-    "-  技术/工具",
     "-  技术/中间件/PolarDB/PolarDB-高可用.md",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
