@@ -48,6 +48,18 @@
             }
           },
           {
+            "id": "660d038c260ae7e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "608abe688440d6eb",
             "type": "leaf",
             "state": {
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "463efeb7cef0345a",
+  "active": "660d038c260ae7e4",
   "lastOpenFiles": [
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-097Z.png",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-095Z.png",
