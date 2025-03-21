@@ -40,3 +40,5 @@
 - **响应传递**：服务 B 的 Envoy 代理将响应传递给服务 A 的 Envoy 代理。 
 1. **返回响应**：服务 A 的 Envoy 代理将最终响应返回给客户端。如果服务 A 无需调用其他服务，则直接由服务 A 将响应返回给其 Envoy 代理，再由 Envoy 代理返回给客户端。
 
+
+curl --location --request POST '[https://cloud.fastgpt.cn/api/v1/chat/completions](https://cloud.fastgpt.cn/api/v1/chat/completions)' -v \ --header 'Authorization: Bearer fastgpt-wSFUETb73LKWC4IheIPahis95NMJTKuwrYK346Tq25OF4PzkImJQS2' \ --header 'Content-Type: application/json' \ --data-raw '{ "chatId": "111", "stream": false, "detail": false, "messages": [ { "content": "我叫李韬，1998.02.22出生，这是我的年度运势计算结果:\n\n年度运势计算结果: 2025年运势分析：\n您今年与太岁关系为\"刑太岁\"，需特别注意法律纠纷 / 情感危机。农历3月可能是关键月份，建议谨慎行事。\n五行详细分析：\n• 流年天干：乙（木）\n• 流年地支：巳（火）\n• 日主天干：庚（金）\n• 姓名五行：火\n• 出生年天干：戊（土）\n• 出生年地支：寅（木）\n 核心分析：日主金克流年天干木，有助于克服困难，流年地支火克日主金，外部环境不利\n姓名五行：流年天干木生姓名五行火，有利于个人成长\n建议佩戴红玛瑙或红绳手链以化解不利。\n今年您的贵人属相为羊，多与此属相人士交往有助提升运势。\n\n请你从事业、健康、财运、桃花运方面回答我，最后给一个总结", "role": "user" } ] }'
