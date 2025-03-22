@@ -43,7 +43,7 @@
 把今年页面换成专家页面，我已经提供了icon
 
 
-专家页面使用流式接口，数据会一点一点返回
-curl --location --request POST '[https://cloud.fastgpt.cn/api/v1/chat/completions](https://cloud.fastgpt.cn/api/v1/chat/completions)' -v \ --header 'Authorization: Bearer fastgpt-wSFUETb73LKWC4IheIPahis95NMJTKuwrYK346Tq25OF4PzkImJQS2' \ --header 'Content-Type: application/json' \ --data-raw '{ "chatId": "111", "stream": false, "detail": false, "messages": [ { "content": "我叫${姓名}，${生日}出生，星座：${星座},这是我八字 ${八字}, 五行：${五行}, 以及年度运势计算结果:${年度运势}，请你结合这些数据和你的专业知识从事业、健康、财运、桃花运方面回答我，最后给一个总结", "role": "user" } ] }'
+使用流式接口，数据会一点一点返回
+curl --location --request POST https://cloud.fastgpt.cn/api/v1/chat/completions -v \ --header 'Authorization: Bearer fastgpt-wSFUETb73LKWC4IheIPahis95NMJTKuwrYK346Tq25OF4PzkImJQS2' \ --header 'Content-Type: application/json' \ --data-raw '{ "chatId": "111", "stream": false, "detail": false, "messages": [ { "content": "我叫${姓名}，${生日}出生，星座：${星座},这是我八字 ${八字}, 五行：${五行}, 以及年度运势计算结果:${年度运势}，请你结合这些数据和你的专业知识从事业、健康、财运、桃花运方面回答我，最后给一个总结", "role": "user" } ] }'
 
 ${姓名}, ${生日} 来自用户数据， ${星座} 通过生日换算 ${八字} ${五行} ${年度运势}获取程序内计算好的 
