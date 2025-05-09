@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/最佳实践/表容量预估.md",
+                "file": "-  面试/2025/plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "表容量预估"
+              "title": "plan"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,6 +179,7 @@
   },
   "active": "6b3b38b5b47087f4",
   "lastOpenFiles": [
+    "-  技术/最佳实践/表容量预估.md",
     "-  技术/编程语言/go gc.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-465Z.png",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
@@ -190,7 +192,6 @@
     "-  技术/最佳实践/支付/支付配置.md",
     "-  技术/最佳实践/数据压缩.md",
     "-  技术/最佳实践/数据平滑迁移.md",
-    "-  技术/最佳实践/表容量预估.md",
     "-  技术/DevOps/metrics/代码指标收集.md",
     "-  技术/云原生/istio 快速入门.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-57-02-097Z.png",
