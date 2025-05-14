@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  面试/2025/plan.md",
+                "file": "-  技术/中间件/mysql/分页查询优化.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "plan"
+              "title": "分页查询优化"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,6 +178,9 @@
   },
   "active": "6b3b38b5b47087f4",
   "lastOpenFiles": [
+    "-  技术/中间件/mysql/分页查询优化.md",
+    "-  技术/工具/常用包.md",
+    "-  面试/2025/plan.md",
     "-  技术/最佳实践/表容量预估.md",
     "-  技术/编程语言/go gc.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-465Z.png",
@@ -209,7 +211,6 @@
     "-  技术/云原生/istio 快速入门.res",
     "-  技术/云原生/istio 如何完成服务发现？.md",
     "conflict-files-obsidian-git.md",
-    "-  面试/2025/plan.md",
     "-  技术/云原生",
     "-  技术/系统设计/订单系统/虚拟商品订单系统.md",
     "-  技术/系统设计/订单系统/电商订单系统.md",
@@ -220,7 +221,6 @@
     "-  技术/系统设计/minitaskx",
     "-  技术/系统设计",
     "-  技术/最佳实践/支付/支付配置.res",
-    "-  技术/工具/常用包.md",
     "-  技术/中间件/PolarDB/PolarDB-高可用.md",
     "-  技术/中间件/PolarDB/PolarDB-简介.md",
     "-  技术/中间件/PolarDB/PolarDB-最佳实践.md",
