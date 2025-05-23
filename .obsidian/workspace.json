@@ -25,12 +25,14 @@
             "id": "6b9e05ccf8fbe137",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "-  技术/中间件/整体分析.res/IMG-20250516142210136.png"
+                "file": "-  技术/DevOps/脚本.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG-20250516142210136"
+              "icon": "lucide-file",
+              "title": "脚本"
             }
           }
         ],
@@ -191,8 +193,9 @@
   },
   "active": "6b9e05ccf8fbe137",
   "lastOpenFiles": [
-    "-  技术/中间件/整体分析.md",
     "-  技术/中间件/整体分析.res/IMG-20250516142210136.png",
+    "-  技术/DevOps/脚本.md",
+    "-  技术/中间件/整体分析.md",
     "-  技术/中间件/整体分析.res/IMG-20250516142138167.png",
     "-  技术/中间件/整体分析.res",
     "-  技术/中间件/整体分析.res/IMG-20250516141749531.png",
@@ -235,7 +238,6 @@
     "-  技术/系统设计/编排引擎",
     "-  技术/系统设计/minitaskx",
     "-  技术/系统设计",
-    "-  技术/中间件/PolarDB/PolarDB-高可用.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
