@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a1d65b93f3896305",
+        "id": "540ed1479cf0cf9d",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3b38b5b47087f4",
+            "id": "a40e7c39745de234",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/中间件/整体分析.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "整体分析"
-            }
-          },
-          {
-            "id": "6b9e05ccf8fbe137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/DevOps/部署管理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "部署管理"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +70,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,11 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b9e05ccf8fbe137",
+  "active": "fba8b2032d05712e",
   "lastOpenFiles": [
+    "-  技术/中间件/整体分析.md",
+    "-  技术/AI/CodeReview.md",
+    "-  技术/DevOps/部署管理.md",
     "-  技术/DevOps/脚本 Bashly框架.md",
     "-  技术/中间件/整体分析.res/IMG-20250516142210136.png",
-    "-  技术/中间件/整体分析.md",
     "-  技术/中间件/整体分析.res/IMG-20250516142138167.png",
     "-  技术/中间件/整体分析.res",
     "-  技术/中间件/整体分析.res/IMG-20250516141749531.png",
@@ -232,7 +216,6 @@
     "-  技术/云原生",
     "-  技术/系统设计/订单系统/虚拟商品订单系统.md",
     "-  技术/系统设计/订单系统/电商订单系统.md",
-    "-  技术/系统设计/minitaskx/服务发现.md",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res",
     "-  技术/系统设计/订单系统",
     "-  技术/系统设计/编排引擎",
