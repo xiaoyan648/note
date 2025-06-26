@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a40e7c39745de234",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/AI/项目实战/KAG System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "KAG System"
-            }
-          },
-          {
             "id": "e7f7f8193fe474d2",
             "type": "leaf",
             "state": {
@@ -188,10 +174,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a40e7c39745de234",
+  "active": "415c3223ffee9a2b",
   "lastOpenFiles": [
-    "-  技术/AI/项目实战/KAG System.md",
     "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
+    "-  技术/中间件/kafka/ZSTD压缩.md",
+    "-  技术/AI/项目实战/KAG System.md",
+    "-  技术/中间件/kafka",
     "-  技术/AI/项目实战",
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/工具/常用包.md",
@@ -230,12 +218,10 @@
     "-  技术/云原生/云原生.md",
     "-  技术/云原生/istio 快速入门.res",
     "-  技术/云原生/istio 如何完成服务发现？.md",
-    "conflict-files-obsidian-git.md",
     "-  技术/云原生",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res",
     "-  技术/系统设计/订单系统",
     "-  技术/系统设计/编排引擎",
-    "-  技术/系统设计/minitaskx",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
