@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/AI/KAG 知识增强.md",
+                "file": "-  技术/AI/项目实战/KAG 评估方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAG 知识增强"
+              "title": "KAG 评估方法"
             }
           }
         ]
@@ -178,10 +178,11 @@
   },
   "active": "e7f7f8193fe474d2",
   "lastOpenFiles": [
-    "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
-    "-  技术/AI/KAG 知识增强.md",
-    "-  技术/中间件/kafka/ZSTD压缩.md",
+    "-  技术/AI/项目实战/KAG 数据库.md",
+    "-  技术/AI/项目实战/KAG 评估方法.md",
     "-  技术/AI/项目实战/KAG System.md",
+    "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
+    "-  技术/中间件/kafka/ZSTD压缩.md",
     "-  技术/中间件/kafka",
     "-  技术/AI/项目实战",
     "-  技术/AI/项目实战/CodeReview.md",
@@ -218,7 +219,6 @@
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-464Z.png",
     "Downloads/mcp-screenshots",
     "Downloads",
-    "-  技术/云原生/云原生.md",
     "-  技术/云原生/istio 快速入门.res",
     "-  技术/云原生",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.res",
