@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/AI/项目实战/KAG 评估方法.md",
+                "file": "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAG 评估方法"
+              "title": "2.设计：任务调度系统"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "压缩",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,10 +177,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7f7f8193fe474d2",
+  "active": "fba8b2032d05712e",
   "lastOpenFiles": [
-    "-  技术/AI/项目实战/KAG 数据库.md",
     "-  技术/AI/项目实战/KAG 评估方法.md",
+    "-  技术/AI/项目实战/KAG 数据库.md",
     "-  技术/AI/项目实战/KAG System.md",
     "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
     "-  技术/中间件/kafka/ZSTD压缩.md",
