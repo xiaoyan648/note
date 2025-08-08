@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/系统设计/ino/系统架构.md",
+                "file": "-  技术/最佳实践/表容量预估.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系统架构"
+              "title": "表容量预估"
             }
           },
           {
@@ -188,8 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b567b4c4fc6484d",
+  "active": "e7f7f8193fe474d2",
   "lastOpenFiles": [
+    "-  技术/最佳实践/数据压缩.md",
+    "-  技术/最佳实践/数据平滑迁移.md",
+    "-  技术/最佳实践/性能优化/如何快速有效的性能优化.md",
+    "-  技术/最佳实践/服务治理/分布式链路追踪.md",
+    "-  技术/最佳实践/服务治理/分布式调度系统.md",
+    "Pasted image 20250120202150.png",
+    "Pasted image 20250120191652.png",
+    "Pasted image 20250120171451.png",
+    "Pasted image 20250120170029.png",
     "-  技术/系统设计/ino/系统架构.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.png",
@@ -202,12 +211,10 @@
     "-  技术/计算机基础/操作系统/linux 常用命令.res",
     "-  技术/计算机基础/操作系统/linux 常用命令.res/IMG-20250711184452765.png",
     "-  技术/计算机基础/操作系统",
-    "-  技术/最佳实践/性能优化/如何快速有效的性能优化.md",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.md",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145231083.png",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145128121.png",
-    "-  技术/最佳实践/数据压缩.md",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
     "-  技术/AI/项目实战/KAG 评估方法.md",
     "-  技术/AI/项目实战/KAG 数据库.md",
@@ -221,18 +228,12 @@
     "-  技术/中间件/整体分析.md",
     "-  技术/DevOps/部署管理.md",
     "-  技术/DevOps/脚本 Bashly框架.md",
-    "-  技术/中间件/整体分析.res/IMG-20250516142210136.png",
-    "-  技术/中间件/整体分析.res/IMG-20250516142138167.png",
     "-  技术/中间件/整体分析.res",
-    "-  技术/中间件/整体分析.res/IMG-20250516141749531.png",
     "-  技术/中间件/mysql/分页查询优化.md",
     "-  面试/2025/plan.md",
     "-  技术/最佳实践/表容量预估.md",
     "-  技术/编程语言/go gc.md",
-    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-23-465Z.png",
     "-  技术/系统设计/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
-    "-  技术/系统设计/编排引擎/流程引擎简介.md",
-    "-  技术/最佳实践/服务治理/分布式链路追踪.md",
     "Downloads/mcp-screenshots",
     "Downloads",
     "未命名.canvas",
