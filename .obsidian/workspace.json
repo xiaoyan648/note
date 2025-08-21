@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "7c1e23b78bf14d98",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.10"
+            }
+          },
+          {
             "id": "02c8c9efa808ed9a",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Drawing 2025-07-31 13.41.15.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -178,6 +191,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -188,7 +202,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e7f7f8193fe474d2",
+  "active": "7c1e23b78bf14d98",
   "lastOpenFiles": [
     "-  技术/最佳实践/表容量预估.md",
     "-  技术/最佳实践/容量分析案例.md",
