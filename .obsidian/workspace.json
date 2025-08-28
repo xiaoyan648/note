@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "6377155846abaf0d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
+          },
+          {
             "id": "02c8c9efa808ed9a",
             "type": "leaf",
             "state": {
@@ -46,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c1e23b78bf14d98",
+  "active": "6377155846abaf0d",
   "lastOpenFiles": [
     "-  技术/最佳实践/表容量预估.md",
     "-  技术/最佳实践/容量分析案例.md",
