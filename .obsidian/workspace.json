@@ -37,12 +37,14 @@
             "id": "6377155846abaf0d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "-  技术/中间件/clickhouse/ck数据流实时处理.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "ck数据流实时处理"
             }
           },
           {
