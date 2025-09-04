@@ -8,55 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e7f7f8193fe474d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/最佳实践/容量分析案例.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "容量分析案例"
-            }
-          },
-          {
-            "id": "7c1e23b78bf14d98",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.10"
-            }
-          },
-          {
-            "id": "6377155846abaf0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/工具/git-diff.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "git-diff"
-            }
-          },
-          {
             "id": "02c8c9efa808ed9a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md"
+                "file": "-  技术/工具/常用包.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-07-31 13.41.15.excalidraw"
+              "icon": "lucide-file",
+              "title": "常用包"
+            }
+          },
+          {
+            "id": "75a136ed12cc7297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-  技术/工具/常用包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用包"
+            }
+          },
+          {
+            "id": "298b357ba45e90a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "-  技术/工具/常用包.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "常用包"
             }
           }
         ],
@@ -133,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md",
+                "file": "-  技术/工具/常用包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "💡想法记录 的反向链接列表"
+              "title": "常用包 的反向链接列表"
             }
           },
           {
@@ -152,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "架构/Pipeline系统/💡想法记录.md",
+                "file": "-  技术/工具/常用包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "💡想法记录 的出链列表"
+              "title": "常用包 的出链列表"
             }
           },
           {
@@ -167,7 +157,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "标签"
@@ -195,13 +187,11 @@
               "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 240.5,
-    "collapsed": true
+    "width": 240.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,15 +206,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6377155846abaf0d",
+  "active": "298b357ba45e90a2",
   "lastOpenFiles": [
-    "-  技术/中间件/clickhouse/入门-案例：日志收集.md",
     "-  技术/工具/git-diff.md",
+    "-  技术/工具/常用包.md",
+    "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
+    "未命名.base",
+    "-  技术/最佳实践/容量分析案例.md",
+    "-  技术/最佳实践/表容量预估.md",
+    "2025-09-04.md",
+    "-  技术/中间件/clickhouse/入门-案例：日志收集.md",
     "-  技术/中间件/clickhouse/入门-常用语句.md",
     "-  技术/中间件/clickhouse/深入-....md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
-    "-  技术/最佳实践/表容量预估.md",
-    "-  技术/最佳实践/容量分析案例.md",
     "-  技术/最佳实践/数据压缩.md",
     "-  技术/最佳实践/数据平滑迁移.md",
     "-  技术/最佳实践/性能优化/如何快速有效的性能优化.md",
@@ -235,7 +229,6 @@
     "Pasted image 20250120171451.png",
     "Pasted image 20250120170029.png",
     "-  技术/系统设计/ino/系统架构.md",
-    "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.png",
     "-  技术/系统设计/ino/Drawing 2025-07-31 14.13.35.excalidraw.png",
     "-  技术/系统设计/ino/Drawing 2025-07-31 14.13.35.excalidraw.md",
@@ -259,11 +252,8 @@
     "-  技术/中间件/kafka",
     "-  技术/AI/项目实战",
     "-  技术/AI/项目实战/CodeReview.md",
-    "-  技术/工具/常用包.md",
-    "-  技术/中间件/整体分析.md",
     "-  技术/中间件/整体分析.res",
     "Downloads/mcp-screenshots",
-    "Downloads",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
