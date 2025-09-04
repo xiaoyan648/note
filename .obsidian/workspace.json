@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/中间件/clickhouse/入门-案例：日志收集.md",
+                "file": "-  技术/工具/git-diff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "入门-案例：日志收集"
+              "title": "git-diff"
             }
           },
           {
@@ -218,8 +218,9 @@
   },
   "active": "6377155846abaf0d",
   "lastOpenFiles": [
-    "-  技术/中间件/clickhouse/入门-常用语句.md",
     "-  技术/中间件/clickhouse/入门-案例：日志收集.md",
+    "-  技术/工具/git-diff.md",
+    "-  技术/中间件/clickhouse/入门-常用语句.md",
     "-  技术/中间件/clickhouse/深入-....md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
     "-  技术/最佳实践/表容量预估.md",
@@ -260,7 +261,6 @@
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/工具/常用包.md",
     "-  技术/中间件/整体分析.md",
-    "-  技术/DevOps/部署管理.md",
     "-  技术/中间件/整体分析.res",
     "Downloads/mcp-screenshots",
     "Downloads",
