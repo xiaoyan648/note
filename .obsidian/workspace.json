@@ -34,23 +34,9 @@
               "icon": "lucide-file",
               "title": "常用包"
             }
-          },
-          {
-            "id": "298b357ba45e90a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "-  技术/工具/常用包.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "常用包"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,12 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "298b357ba45e90a2",
+  "active": "75a136ed12cc7297",
   "lastOpenFiles": [
-    "-  技术/工具/git-diff.md",
-    "-  技术/工具/常用包.md",
-    "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
     "未命名.base",
+    "-  技术/工具/常用包.md",
+    "-  技术/工具/git-diff.md",
+    "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
     "-  技术/最佳实践/容量分析案例.md",
     "-  技术/最佳实践/表容量预估.md",
     "2025-09-04.md",
@@ -251,7 +237,6 @@
     "-  技术/中间件/kafka/ZSTD压缩.md",
     "-  技术/中间件/kafka",
     "-  技术/AI/项目实战",
-    "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/中间件/整体分析.res",
     "Downloads/mcp-screenshots",
     "未命名.canvas",
