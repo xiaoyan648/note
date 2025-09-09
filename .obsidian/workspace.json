@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/工具/常用包.md",
+                "file": "-  技术/中间件/kafka/ZSTD压缩.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用包"
+              "title": "ZSTD压缩"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-  技术/工具/常用包.md",
+                "file": "-  技术/中间件/kafka/ZSTD压缩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "常用包 的反向链接列表"
+              "title": "ZSTD压缩 的反向链接列表"
             }
           },
           {
@@ -194,8 +194,8 @@
   },
   "active": "75a136ed12cc7297",
   "lastOpenFiles": [
-    "未命名.base",
     "-  技术/工具/常用包.md",
+    "未命名.base",
     "-  技术/工具/git-diff.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.md",
     "-  技术/最佳实践/容量分析案例.md",
