@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/编程语言/go 常用命令.md",
+                "file": "-  技术/中间件/clickhouse/1.快速开始.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "go 常用命令"
+              "title": "1.快速开始"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 254.5
   },
   "right": {
     "id": "d28298963bd73e59",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-  技术/编程语言/go 常用命令.md",
+                "file": "-  技术/中间件/clickhouse/1.快速开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "go 常用命令 的反向链接列表"
+              "title": "1.快速开始 的反向链接列表"
             }
           },
           {
@@ -179,18 +179,25 @@
   },
   "active": "5d9b7d6d98e252a2",
   "lastOpenFiles": [
-    "-  技术/编程语言/go 常用库.md",
+    "-  技术/中间件/clickhouse/1.快速开始.res",
+    "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930135303046.png",
+    "-  技术/中间件/clickhouse/2.深入-....md",
+    "-  技术/中间件/clickhouse/3.案例：日志收集.md",
+    "-  技术/中间件/clickhouse/1.快速开始.md",
+    "-  技术/中间件/整体分析.md",
+    "-  技术/中间件/clickhouse/ck数据流实时处理.md",
+    "-  技术/编程语言/go 常用命令.md",
+    "未命名 1.base",
+    "未命名 2.base",
     "未命名 3.base",
+    "-  技术/编程语言/go 常用库.md",
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/DevOps/metrics/代码指标收集.md",
-    "-  技术/编程语言/go 常用命令.md",
     "-  技术/工具/常用包.md",
     "-  技术/AI/MCP/未命名.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-20-238Z.png",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-20-235Z.png",
-    "未命名 2.base",
     "-  技术/AI/MCP",
-    "未命名 1.base",
     "-  技术/AI/项目实战/KAG 评估方法.md",
     "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
     "-  技术/中间件/kafka/ZSTD压缩.md",
@@ -200,10 +207,6 @@
     "-  技术/最佳实践/容量分析案例.md",
     "-  技术/最佳实践/表容量预估.md",
     "2025-09-04.md",
-    "-  技术/中间件/clickhouse/入门-案例：日志收集.md",
-    "-  技术/中间件/clickhouse/入门-常用语句.md",
-    "-  技术/中间件/clickhouse/深入-....md",
-    "-  技术/中间件/clickhouse/ck数据流实时处理.md",
     "-  技术/最佳实践/数据压缩.md",
     "-  技术/最佳实践/数据平滑迁移.md",
     "-  技术/最佳实践/性能优化/如何快速有效的性能优化.md",
@@ -216,12 +219,10 @@
     "-  技术/系统设计/ino/系统架构.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.png",
     "-  技术/系统设计/ino/Drawing 2025-07-31 14.13.35.excalidraw.png",
-    "-  技术/系统设计/ino/Drawing 2025-07-31 14.13.35.excalidraw.md",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino/系统架构.res/IMG-20250731141135065.png",
     "-  技术/系统设计/ino",
     "-  技术/计算机基础/操作系统/linux 常用命令.res",
-    "-  技术/计算机基础/操作系统/linux 常用命令.res/IMG-20250711184452765.png",
     "-  技术/计算机基础/操作系统",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res",
     "未命名.canvas",
