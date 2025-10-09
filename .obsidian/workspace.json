@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1.快速开始"
             }
+          },
+          {
+            "id": "ec3363dd5dfed827",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "-  技术/中间件/clickhouse/1.快速开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1.快速开始 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -177,8 +189,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d9b7d6d98e252a2",
+  "active": "ec3363dd5dfed827",
   "lastOpenFiles": [
+    "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930174409190.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165607180.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165442123.png",
     "-  技术/中间件/clickhouse/1.快速开始.res",
@@ -220,7 +233,6 @@
     "Pasted image 20250120170029.png",
     "-  技术/系统设计/ino/系统架构.md",
     "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.png",
-    "-  技术/系统设计/ino/Drawing 2025-07-31 14.13.35.excalidraw.png",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino",
     "-  技术/计算机基础/操作系统/linux 常用命令.res",
