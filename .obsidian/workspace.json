@@ -22,19 +22,18 @@
             }
           },
           {
-            "id": "ec3363dd5dfed827",
+            "id": "7df7ad488577febf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "excalidraw",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md"
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.14"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-10-14 16.02.25.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,8 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec3363dd5dfed827",
+  "active": "a4fa677476055571",
   "lastOpenFiles": [
+    "-  技术/中间件/clickhouse/1.快速开始.md",
+    "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md",
+    "-  技术/AI/MCP/未命名.md",
+    "Excalidraw",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930174409190.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165607180.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165442123.png",
@@ -198,7 +201,6 @@
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930135303046.png",
     "-  技术/中间件/clickhouse/2.深入-....md",
     "-  技术/中间件/clickhouse/3.案例：日志收集.md",
-    "-  技术/中间件/clickhouse/1.快速开始.md",
     "-  技术/中间件/整体分析.md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
     "-  技术/编程语言/go 常用命令.md",
@@ -209,7 +211,6 @@
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/DevOps/metrics/代码指标收集.md",
     "-  技术/工具/常用包.md",
-    "-  技术/AI/MCP/未命名.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-20-238Z.png",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-20-235Z.png",
     "-  技术/AI/MCP",
@@ -232,11 +233,9 @@
     "Pasted image 20250120171451.png",
     "Pasted image 20250120170029.png",
     "-  技术/系统设计/ino/系统架构.md",
-    "-  技术/系统设计/ino/Drawing 2025-07-31 13.41.15.excalidraw.png",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino",
     "-  技术/计算机基础/操作系统/linux 常用命令.res",
-    "-  技术/计算机基础/操作系统",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
