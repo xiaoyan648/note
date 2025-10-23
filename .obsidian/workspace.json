@@ -106,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "-  技术/中间件/clickhouse/1.快速开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "1.快速开始 的反向链接列表"
             }
           },
           {
@@ -188,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a4fa677476055571",
+  "active": "5d9b7d6d98e252a2",
   "lastOpenFiles": [
     "-  技术/中间件/clickhouse/1.快速开始.md",
     "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md",
