@@ -1,3 +1,8 @@
+- LOCK
+	- redis lock 
+		- https://github.com/cheerego/go-redisson http://cloud.tencent.com/developer/article/2494209
+		- https://github.com/go-redsync/redsync/blob/master/mutex.go
+		- https://github.com/zeromicro/go-zero/blob/master/core/stores/redis/redislock.go
 - 简单rpc框架
 https://twitchtv.github.io/twirp/docs/intro.html
 - 轻量规则引擎
@@ -108,7 +113,7 @@ Blackfriday
     [https://github.com/jinzhu/copier](https://github.com/jinzhu/copier)
     
 - dsl自定义语言
-    
+
     [Internals | Expression language](https://expr.medv.io/docs/Internals)
     
 
