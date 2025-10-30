@@ -65,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "库",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -189,7 +190,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5d9b7d6d98e252a2",
+  "active": "fba8b2032d05712e",
   "lastOpenFiles": [
     "-  技术/中间件/clickhouse/1.快速开始.md",
     "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md",
