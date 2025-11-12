@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/最佳实践/服务治理/APM 可观测性.md",
+                "file": "-  技术/最佳实践/性能优化/分块传输.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "APM 可观测性"
+              "title": "分块传输"
             }
           },
           {
@@ -192,10 +192,11 @@
   },
   "active": "5d9b7d6d98e252a2",
   "lastOpenFiles": [
+    "-  技术/最佳实践/服务治理/APM 可观测性.md",
+    "-  技术/最佳实践/性能优化/分块传输.md",
     "-  技术/最佳实践/服务治理/APM 可观测性.res",
     "-  技术/最佳实践/服务治理/APM 可观测性.res/IMG-20251030193410496.png",
     "-  技术/最佳实践/服务治理/分布式链路追踪.md",
-    "-  技术/最佳实践/服务治理/APM 可观测性.md",
     "-  技术/编程语言/go 常用库.md",
     "-  技术/中间件/clickhouse/1.快速开始.md",
     "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md",
@@ -237,7 +238,6 @@
     "Pasted image 20250120171451.png",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino",
-    "-  技术/计算机基础/操作系统/linux 常用命令.res",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
