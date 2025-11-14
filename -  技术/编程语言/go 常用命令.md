@@ -20,3 +20,43 @@ go tool cover -func=coverage.out
 ```
 go test -v ./internal/domain/services -run BenchmarkCalculateSimilarity -bench=BenchmarkCalculateSimilarity
 ```
+
+### pprof
+```shell
+1.生成 cpu.pprof 文件
+
+# go run
+go run -cpuprofile cpu.pprof main.go
+
+# http 采集
+go tool pprof -output=/tmp/cpu.pprof http://localhost:16061/debug/pprof/profile\?seconds\=30
+
+# test 采集
+go test -bench=. -cpuprofile cpu.pprof -benchmem ./...
+
+# test 采集内存
+go test -bench=. -memprofile mem.pprof -memprofilerate=1 ./...
+
+# test 采集阻塞
+go test -bench=. -blockprofile block.pprof ./...
+
+  
+
+2. 分析 pprof 文件
+
+# 场景 1：离线文件 + 启动 Web 界面
+
+go tool pprof -http=:8080 cpu.pprof
+
+# 场景 2. 进入交互模式 排查细节问题
+
+go tool pprof cpu.pprof
+
+# 在交互模式中输入 web 命令，自动生成 svg 并打开
+
+(pprof) web
+
+# 场景 3：实时采集 + 启动 Web 界面（采集 30 秒 CPU 数据）
+
+go tool pprof -http=:8080 http://localhost:6060/debug/pprof/profile?seconds=30
+```
