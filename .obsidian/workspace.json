@@ -25,12 +25,13 @@
             "id": "c22516d9d637f0e1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "bases",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "未命名 1.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.3"
+              "icon": "lucide-table",
+              "title": "未命名 1"
             }
           },
           {
@@ -78,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "可观测mini",
+                "query": "minitask",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,8 +100,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,8 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba8b2032d05712e",
+  "active": "e94673482b6e42c1",
   "lastOpenFiles": [
+    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
+    "未命名 1.base",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145231083.png",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145128121.png",
     "-  技术/最佳实践/性能优化/分块传输.md",
@@ -228,7 +230,6 @@
     "-  技术/中间件/整体分析.md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
     "-  技术/编程语言/go 常用命令.md",
-    "未命名 1.base",
     "未命名 2.base",
     "未命名 3.base",
     "-  技术/AI/项目实战/CodeReview.md",
@@ -249,7 +250,6 @@
     "-  技术/最佳实践/数据压缩.md",
     "-  技术/最佳实践/数据平滑迁移.md",
     "Pasted image 20250120202150.png",
-    "Pasted image 20250120191652.png",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino",
     "未命名.canvas",
