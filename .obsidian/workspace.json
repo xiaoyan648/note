@@ -25,13 +25,14 @@
             "id": "c22516d9d637f0e1",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.base",
-                "viewName": "表格"
+                "file": "-  面试/2025/plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 1"
+              "icon": "lucide-file",
+              "title": "plan"
             }
           },
           {
@@ -204,10 +205,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e94673482b6e42c1",
+  "active": "c22516d9d637f0e1",
   "lastOpenFiles": [
-    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
+    "-  技术/工具/代码生成.md",
     "未命名 1.base",
+    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145231083.png",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145128121.png",
     "-  技术/最佳实践/性能优化/分块传输.md",
@@ -247,8 +249,6 @@
     "-  技术/最佳实践/容量分析案例.md",
     "-  技术/最佳实践/表容量预估.md",
     "2025-09-04.md",
-    "-  技术/最佳实践/数据压缩.md",
-    "-  技术/最佳实践/数据平滑迁移.md",
     "Pasted image 20250120202150.png",
     "-  技术/系统设计/ino/系统架构.res",
     "-  技术/系统设计/ino",
