@@ -40,6 +40,9 @@ go test -bench=. -memprofile mem.pprof -memprofilerate=1 ./...
 # test 采集阻塞
 go test -bench=. -blockprofile block.pprof ./...
 
+# 远程采样30秒CPU数据，直接生成火焰图（无需本地保存pprof文件） 
+go tool pprof -svg http://localhost:6060/debug/pprof/profile?seconds=30 > remote_cpu_flamegraph.svg
+
   
 
 2. 分析 pprof 文件
@@ -52,9 +55,15 @@ go tool pprof -http=:8080 cpu.pprof
 
 go tool pprof cpu.pprof
 
+
 # 在交互模式中输入 web 命令，自动生成 svg 并打开
 
 (pprof) web
+
+
+# 不进入交互模式生产
+go tool pprof -svg cpu.pprof > cpu_flamegraph.svg
+
 
 # 场景 3：实时采集 + 启动 Web 界面（采集 30 秒 CPU 数据）
 
