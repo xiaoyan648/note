@@ -25,14 +25,13 @@
             "id": "7df7ad488577febf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "-  技术/编程语言/go 常用命令.md",
-                "mode": "source",
-                "source": false
+                "file": "未命名 2.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "go 常用命令"
+              "icon": "lucide-table",
+              "title": "未命名 2"
             }
           }
         ],
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pprof",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +88,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7df7ad488577febf",
+  "active": "e94673482b6e42c1",
   "lastOpenFiles": [
+    "-  技术/编程语言/go 常用命令.md",
+    "未命名 2.base",
     "-  技术/AI/原理-大模型缓存.md",
     "-  技术/DevOps/metrics/代码指标收集.md",
     "-  技术/DevOps/UMODEL/推进.md",
@@ -233,15 +233,12 @@
     "-  技术/中间件/clickhouse/3.案例：日志收集.md",
     "-  技术/中间件/整体分析.md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
-    "-  技术/编程语言/go 常用命令.md",
-    "未命名 2.base",
     "未命名 3.base",
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/工具/常用包.md",
     "-  技术/AI/MCP",
     "-  技术/AI/项目实战/KAG 评估方法.md",
     "-  技术/AI/项目实战/Drawing 2025-05-29 11.48.32.excalidraw.md",
-    "-  技术/中间件/kafka/ZSTD压缩.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
