@@ -39,12 +39,14 @@
             "id": "b8e2891d9b1126ef",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "-  技术/最佳实践/性能优化/未命名.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.10.6"
+              "icon": "lucide-file",
+              "title": "未命名"
             }
           }
         ],
@@ -207,6 +209,7 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
+    "-  技术/最佳实践/性能优化/未命名.md",
     "-  技术/编程语言/python/未命名.md",
     "-  技术/编程语言/python/包管理.md",
     "未命名 2.base",
@@ -252,7 +255,6 @@
     "未命名 3.base",
     "-  技术/AI/项目实战/CodeReview.md",
     "-  技术/工具/常用包.md",
-    "-  技术/AI/项目实战/KAG 评估方法.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
