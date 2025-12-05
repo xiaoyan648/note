@@ -39,13 +39,14 @@
             "id": "b8e2891d9b1126ef",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "未命名 3.base",
-                "viewName": "表格"
+                "file": "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "未命名 3"
+              "icon": "lucide-file",
+              "title": "gorm 链式操作源码分析"
             }
           }
         ],
@@ -102,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +209,11 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
-    "-  技术/最佳实践/性能优化/sql 优化案例.md",
+    "-  技术/编程语言/go 源码学习.md",
+    "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
+    "-  技术/编程语言/源码学习",
     "未命名 3.base",
+    "-  技术/最佳实践/性能优化/sql 优化案例.md",
     "-  技术/编程语言/python/未命名.md",
     "-  技术/编程语言/python/包管理.md",
     "未命名 2.base",
@@ -247,13 +250,11 @@
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930174409190.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165607180.png",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930165442123.png",
-    "-  技术/中间件/clickhouse/1.快速开始.res",
     "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930135303046.png",
     "-  技术/中间件/clickhouse/2.深入-....md",
     "-  技术/中间件/clickhouse/3.案例：日志收集.md",
     "-  技术/中间件/整体分析.md",
     "-  技术/中间件/clickhouse/ck数据流实时处理.md",
-    "-  技术/AI/项目实战/CodeReview.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
