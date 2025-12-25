@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
+                "file": "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gorm 链式操作源码分析"
+              "title": "2.设计：任务调度系统"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "redis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +210,8 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
-    "-  技术/编程语言/go 源码学习.md",
     "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
+    "-  技术/编程语言/go 源码学习.md",
     "-  技术/编程语言/源码学习",
     "未命名 3.base",
     "-  技术/最佳实践/性能优化/sql 优化案例.md",
