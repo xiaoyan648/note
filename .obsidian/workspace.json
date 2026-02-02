@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/AI/LLM/未命名.md",
+                "file": "-  技术/业务/市场/投放/智能投放-巨量广告帐户.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "智能投放-巨量广告帐户"
             }
           }
         ],
@@ -209,13 +209,17 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
+    "-  技术/AI/LLM/未命名.md",
+    "-  技术/业务/市场/投放/智能投放-巨量广告帐户.md",
+    "-  技术/业务/市场/投放",
+    "-  技术/业务/市场",
+    "-  技术/业务",
     "Pasted image 20260114201358.png",
     "-  技术/AI/LLM/未命名.res/IMG-20260114201341731.png",
     "-  技术/AI/LLM/未命名.res/IMG-20260114201315127.png",
     "-  技术/AI/LLM/未命名.res",
     "-  技术/AI/LLM/未命名.res/IMG-20260114201235468.png",
     "-  杂记/20241204-阅读文章.md",
-    "-  技术/AI/LLM/未命名.md",
     "-  技术/AI/LLM",
     "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
     "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
@@ -235,15 +239,12 @@
     "-  技术/DevOps/UMODEL/umodel 是什么.res",
     "-  技术/DevOps/UMODEL/umodel 是什么.res/IMG-20251120112242739.png",
     "-  面试/2025/plan.md",
-    "-  技术/DevOps/UMODEL",
     "-  技术/DevOps/未命名.md",
     "Excalidraw/Drawing 2025-10-14 16.02.25.excalidraw.md",
     "-  面试/2025/plan.res/IMG-20251120104940248.gif",
     "-  面试/2025/plan.res/IMG-20251120104440711.gif",
     "-  理财/资产配比.md",
-    "-  面试/2025/plan.res",
     "-  技术/工具/代码生成.md",
-    "未命名 1.base",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145231083.png",
     "-  技术/最佳实践/性能优化/kafka 压缩优化.res/IMG-20250707145128121.png",
     "-  技术/最佳实践/性能优化/分块传输.md",
@@ -253,7 +254,6 @@
     "-  技术/编程语言/go 常用库.md",
     "-  技术/中间件/clickhouse/1.快速开始.md",
     "-  技术/AI/MCP/未命名.md",
-    "-  技术/中间件/clickhouse/1.快速开始.res/IMG-20250930174409190.png",
     "-  技术/中间件/clickhouse/2.深入-....md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
