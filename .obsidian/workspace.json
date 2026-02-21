@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "心得体会"
             }
+          },
+          {
+            "id": "cb5ba929007ffd26",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.11.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +208,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -207,7 +219,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b8e2891d9b1126ef",
+  "active": "cb5ba929007ffd26",
   "lastOpenFiles": [
     "-  技术/DevOps/运维/部署常见问题.md",
     "-  技术/AI/项目实战/flowmore/心得体会.md",
