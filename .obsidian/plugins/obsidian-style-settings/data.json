@@ -2,5 +2,9 @@
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-monokai",
   "Blue-Topaz-Codebox-Highlight@@code-normal@@light": "#5E5D5D",
-  "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@light": "#E3EAF1"
+  "Blue-Topaz-Codebox-Highlight@@code-active-line-background-color@@light": "#E3EAF1",
+  "phycat-colors@@light-color-scheme": "theme-light-sakura",
+  "phycat-colors@@dark-color-scheme": "theme-dark-radiation",
+  "phycat-layout@@layout-style": "layout-cards",
+  "phycat-layout@@rainbow-folders": true
 }
