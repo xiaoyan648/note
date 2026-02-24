@@ -42,27 +42,15 @@
               "type": "markdown",
               "state": {
                 "file": "-  技术/AI/项目实战/构建长时间运行的AI开发系统.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "构建长时间运行的AI开发系统"
             }
-          },
-          {
-            "id": "1dfd2251b7ae3e8a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "-  技术/AI/项目实战/Drawing 2026-02-24 16.25.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-24 16.25.34.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +208,10 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1dfd2251b7ae3e8a",
+  "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
-    "-  技术/AI/项目实战/构建长时间运行的AI开发系统.md",
     "-  技术/AI/项目实战/Drawing 2026-02-24 16.25.34.excalidraw.md",
+    "-  技术/AI/项目实战/构建长时间运行的AI开发系统.md",
     "-  技术/AI/LLM/豆包seed2.0.md",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113243228_副本.png",
