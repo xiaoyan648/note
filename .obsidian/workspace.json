@@ -41,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/AI/LLM/豆包seed2.0.md",
+                "file": "-  技术/AI/项目实战/构建长时间运行的AI开发系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "豆包seed2.0"
+              "title": "构建长时间运行的AI开发系统"
+            }
+          },
+          {
+            "id": "1dfd2251b7ae3e8a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "-  技术/AI/项目实战/Drawing 2026-02-24 16.25.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-24 16.25.34.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,14 +220,16 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "b8e2891d9b1126ef",
+  "active": "1dfd2251b7ae3e8a",
   "lastOpenFiles": [
+    "-  技术/AI/项目实战/构建长时间运行的AI开发系统.md",
+    "-  技术/AI/项目实战/Drawing 2026-02-24 16.25.34.excalidraw.md",
+    "-  技术/AI/LLM/豆包seed2.0.md",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113243228_副本.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113221589_副本.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113200121_副本.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261_副本.png",
-    "-  技术/AI/LLM/豆包seed2.0.md",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113243228.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113221589.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113200121.png",
@@ -231,7 +245,6 @@
     "-  Excalidraw/Drawing 2024-09-14 17.16.04.excalidraw.md",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-22-128Z.png",
     "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-22-117Z.png",
-    "Downloads/mcp-screenshots/screenshot-2025-02-27T16-53-20-242Z.png",
     "README.md",
     "未命名.base",
     "未命名 1.base",
@@ -255,7 +268,6 @@
     "-  杂记/20241204-阅读文章.md",
     "-  技术/编程语言/go 源码学习.md",
     "-  技术/最佳实践/性能优化/sql 优化案例.md",
-    "-  技术/编程语言/python/未命名.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
