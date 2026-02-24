@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
+                "file": "-  技术/AI/项目实战/KAG 评估方法.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.设计：任务调度系统"
+              "title": "KAG 评估方法"
             }
           }
         ],
@@ -210,7 +210,10 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
+    "-  技术/AI/项目实战/KAG System.md",
+    "-  技术/AI/项目实战/flowmore/心得体会.md",
     "-  技术/系统设计/minitaskx/1.调研：k8s, xxl-job 等调度系统分析.md",
+    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
     "-  技术/系统设计/订单系统/虚拟商品订单系统.md",
     "-  技术/系统设计/订单系统/电商订单系统.md",
     "-  技术/系统设计/编排引擎/流程引擎简介.md",
@@ -229,7 +232,6 @@
     "-  技术/编程语言/源码学习/gorm 链式操作源码分析.md",
     "智能家居/Home Assistant.md",
     "-  技术/DevOps/运维/部署常见问题.md",
-    "-  技术/AI/项目实战/flowmore/心得体会.md",
     "-  技术/AI/项目实战/flowmore",
     "-  技术/AI/Skill/feishu-doc.md",
     "-  技术/业务/市场/投放/常见名词.md",
@@ -248,14 +250,12 @@
     "-  技术/AI/LLM/未命名.res",
     "-  杂记/20241204-阅读文章.md",
     "-  技术/AI/LLM",
-    "-  技术/系统设计/minitaskx/2.设计：任务调度系统.md",
     "-  技术/编程语言/go 源码学习.md",
     "-  技术/最佳实践/性能优化/sql 优化案例.md",
     "-  技术/编程语言/python/未命名.md",
     "-  技术/编程语言/python/包管理.md",
     "-  技术/编程语言/go 常用命令.md",
     "-  技术/AI/原理-大模型缓存.md",
-    "-  技术/DevOps/metrics/代码指标收集.md",
     "未命名.canvas",
     "中间件/mysql/未命名.canvas"
   ]
