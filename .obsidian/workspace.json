@@ -39,12 +39,14 @@
             "id": "b8e2891d9b1126ef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261.png"
+                "file": "-  技术/AI/LLM/豆包seed2.0.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "IMG-20260224113143261"
+              "icon": "lucide-file",
+              "title": "豆包seed2.0"
             }
           }
         ],
@@ -208,6 +210,7 @@
   },
   "active": "b8e2891d9b1126ef",
   "lastOpenFiles": [
+    "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113243228_副本.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113221589_副本.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113200121_副本.png",
@@ -217,7 +220,6 @@
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113221589.png",
     "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113200121.png",
     "-  技术/AI/LLM/豆包seed2.0.res",
-    "-  技术/AI/LLM/豆包seed2.0.res/IMG-20260224113143261.png",
     "-  技术/AI/项目实战/KAG 评估方法.md",
     "-  技术/AI/项目实战/KAG System.md",
     "-  技术/AI/项目实战/flowmore/心得体会.md",
